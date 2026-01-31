@@ -1,2 +1,2 @@
 # GSE_Map
-Vibe Coded of Penn GSE Courses
+Vibe Coded Map of Penn GSE Courses
