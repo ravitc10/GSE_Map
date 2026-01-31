@@ -1,0 +1,2823 @@
+[
+  {
+    "code": "EDUC 1000",
+    "title": "Foundations of Tutoring Training",
+    "label": "EDUC 1000 — Foundations of Tutoring Training",
+    "x": -19.52250099182129,
+    "y": -23.809043884277344
+  },
+  {
+    "code": "EDUC 1001",
+    "title": "Advanced Tutoring Principles",
+    "label": "EDUC 1001 — Advanced Tutoring Principles",
+    "x": -19.600893020629883,
+    "y": -23.81511878967285
+  },
+  {
+    "code": "EDUC 1450",
+    "title": "(Re)Making U.S. Schools",
+    "label": "EDUC 1450 — (Re)Making U.S. Schools",
+    "x": 12.95866584777832,
+    "y": 23.4270076751709
+  },
+  {
+    "code": "EDUC 2002",
+    "title": "Urban Education",
+    "label": "EDUC 2002 — Urban Education",
+    "x": 15.75298023223877,
+    "y": 25.8532657623291
+  },
+  {
+    "code": "EDUC 2050",
+    "title": "Learning from Children",
+    "label": "EDUC 2050 — Learning from Children",
+    "x": -0.42196378111839294,
+    "y": -10.982342720031738
+  },
+  {
+    "code": "EDUC 2140",
+    "title": "Education in American Culture",
+    "label": "EDUC 2140 — Education in American Culture",
+    "x": 17.060075759887695,
+    "y": 20.801158905029297
+  },
+  {
+    "code": "EDUC 2445",
+    "title": "Civil Dialogue Seminar: Civic Engagement In A Divided Nation",
+    "label": "EDUC 2445 — Civil Dialogue Seminar: Civic Engagement In A Divided Nation",
+    "x": -42.3859748840332,
+    "y": 0.03263692557811737
+  },
+  {
+    "code": "EDUC 2535",
+    "title": "Psychology of Women",
+    "label": "EDUC 2535 — Psychology of Women",
+    "x": 29.078428268432617,
+    "y": -2.7860469818115234
+  },
+  {
+    "code": "EDUC 2541",
+    "title": "Educational Psychology",
+    "label": "EDUC 2541 — Educational Psychology",
+    "x": 36.846717834472656,
+    "y": -9.75243854522705
+  },
+  {
+    "code": "EDUC 2551",
+    "title": "Mindfulness and Human Development (SNF Paideia Program Course)",
+    "label": "EDUC 2551 — Mindfulness and Human Development (SNF Paideia Program Course)",
+    "x": 51.64200973510742,
+    "y": -11.296266555786133
+  },
+  {
+    "code": "EDUC 3123",
+    "title": "Tutoring School: Theory and Practic",
+    "label": "EDUC 3123 — Tutoring School: Theory and Practic",
+    "x": -17.35202980041504,
+    "y": -21.85289764404297
+  },
+  {
+    "code": "EDUC 3545",
+    "title": "Psychology of Personal Growth",
+    "label": "EDUC 3545 — Psychology of Personal Growth",
+    "x": 37.28187561035156,
+    "y": -8.298121452331543
+  },
+  {
+    "code": "EDUC 3560",
+    "title": "Human Development in Global Perspective",
+    "label": "EDUC 3560 — Human Development in Global Perspective",
+    "x": 34.44264221191406,
+    "y": -15.777841567993164
+  },
+  {
+    "code": "EDUC 3726",
+    "title": "Tutoring in Urban Public Elementary Schools: A Child Development Perspective",
+    "label": "EDUC 3726 — Tutoring in Urban Public Elementary Schools: A Child Development Perspective",
+    "x": -19.22800064086914,
+    "y": -20.53913688659668
+  },
+  {
+    "code": "EDUC 4014",
+    "title": "Children's Literature",
+    "label": "EDUC 4014 — Children's Literature",
+    "x": 17.387954711914062,
+    "y": -49.77617263793945
+  },
+  {
+    "code": "EDUC 4902",
+    "title": "Teaching Creative Writing to High School Students",
+    "label": "EDUC 4902 — Teaching Creative Writing to High School Students",
+    "x": 17.360530853271484,
+    "y": -32.43644332885742
+  },
+  {
+    "code": "EDUC 4920",
+    "title": "Language, Culture, and Society in Contemporary Korea",
+    "label": "EDUC 4920 — Language, Culture, and Society in Contemporary Korea",
+    "x": 13.867374420166016,
+    "y": -22.537282943725586
+  },
+  {
+    "code": "EDUC 5007",
+    "title": "Teaching & Learning in Student Centered Classrooms",
+    "label": "EDUC 5007 — Teaching & Learning in Student Centered Classrooms",
+    "x": -24.991859436035156,
+    "y": -4.760212421417236
+  },
+  {
+    "code": "EDUC 5007A",
+    "title": "Teaching & Learning in Student Centered Classrooms",
+    "label": "EDUC 5007A — Teaching & Learning in Student Centered Classrooms",
+    "x": -25.09995460510254,
+    "y": -4.718935966491699
+  },
+  {
+    "code": "EDUC 5007B",
+    "title": "Teaching & Learning in Student Centered Classrooms",
+    "label": "EDUC 5007B — Teaching & Learning in Student Centered Classrooms",
+    "x": -24.90167236328125,
+    "y": -4.499570369720459
+  },
+  {
+    "code": "EDUC 5015",
+    "title": "Field Seminar: Culturally Responsive Teaching",
+    "label": "EDUC 5015 — Field Seminar: Culturally Responsive Teaching",
+    "x": -8.537240028381348,
+    "y": -14.337020874023438
+  },
+  {
+    "code": "EDUC 5015A",
+    "title": "Field Seminar: Culturally Responsive Pedagogy",
+    "label": "EDUC 5015A — Field Seminar: Culturally Responsive Pedagogy",
+    "x": -9.542064666748047,
+    "y": -13.316089630126953
+  },
+  {
+    "code": "EDUC 5015B",
+    "title": "Field Seminar: Culturally Responsive Teaching",
+    "label": "EDUC 5015B — Field Seminar: Culturally Responsive Teaching",
+    "x": -8.631712913513184,
+    "y": -13.5650634765625
+  },
+  {
+    "code": "EDUC 5016A",
+    "title": "Field Seminar in Secondary Schools",
+    "label": "EDUC 5016A — Field Seminar in Secondary Schools",
+    "x": -11.366085052490234,
+    "y": -14.869468688964844
+  },
+  {
+    "code": "EDUC 5016B",
+    "title": "Field Seminar in Secondary Schools",
+    "label": "EDUC 5016B — Field Seminar in Secondary Schools",
+    "x": -11.452303886413574,
+    "y": -14.148852348327637
+  },
+  {
+    "code": "EDUC 5018",
+    "title": "Integrating the Arts in the K-8 Classroom",
+    "label": "EDUC 5018 — Integrating the Arts in the K-8 Classroom",
+    "x": -24.910900115966797,
+    "y": -26.755868911743164
+  },
+  {
+    "code": "EDUC 5020",
+    "title": "Literacy in Elementary/Middle Schools",
+    "label": "EDUC 5020 — Literacy in Elementary/Middle Schools",
+    "x": 11.938225746154785,
+    "y": -42.21464157104492
+  },
+  {
+    "code": "EDUC 5021",
+    "title": "Science Methods: Project-Based Learning Approaches",
+    "label": "EDUC 5021 — Science Methods: Project-Based Learning Approaches",
+    "x": -19.90955924987793,
+    "y": -8.523089408874512
+  },
+  {
+    "code": "EDUC 5023",
+    "title": "Social Studies in the Elementary and Middle Schools",
+    "label": "EDUC 5023 — Social Studies in the Elementary and Middle Schools",
+    "x": -13.357970237731934,
+    "y": -12.46075439453125
+  },
+  {
+    "code": "EDUC 5030",
+    "title": "Cultivating Creativity in the K-8 Classroom",
+    "label": "EDUC 5030 — Cultivating Creativity in the K-8 Classroom",
+    "x": -26.095308303833008,
+    "y": -29.44904899597168
+  },
+  {
+    "code": "EDUC 5031",
+    "title": "Mathematics in the Elementary and Middle Schools",
+    "label": "EDUC 5031 — Mathematics in the Elementary and Middle Schools",
+    "x": -21.915924072265625,
+    "y": -15.685154914855957
+  },
+  {
+    "code": "EDUC 5040",
+    "title": "Differentiating Instruction for Special Education Learners",
+    "label": "EDUC 5040 — Differentiating Instruction for Special Education Learners",
+    "x": -1.6230565309524536,
+    "y": -29.217266082763672
+  },
+  {
+    "code": "EDUC 5041",
+    "title": "Differentiating Instruction for English Language Learners",
+    "label": "EDUC 5041 — Differentiating Instruction for English Language Learners",
+    "x": -1.1184192895889282,
+    "y": -30.048397064208984
+  },
+  {
+    "code": "EDUC 5054",
+    "title": "Managing Collaborative Learning Environments in Urban Contexts",
+    "label": "EDUC 5054 — Managing Collaborative Learning Environments in Urban Contexts",
+    "x": -15.417084693908691,
+    "y": -16.036760330200195
+  },
+  {
+    "code": "EDUC 5055",
+    "title": "Advanced Field Seminar: Student-Centered Social Justice Pedagogy",
+    "label": "EDUC 5055 — Advanced Field Seminar: Student-Centered Social Justice Pedagogy",
+    "x": -11.70368766784668,
+    "y": -16.946006774902344
+  },
+  {
+    "code": "EDUC 5057",
+    "title": "Advanced Field Seminar in Secondary Schools",
+    "label": "EDUC 5057 — Advanced Field Seminar in Secondary Schools",
+    "x": -13.090280532836914,
+    "y": -18.397306442260742
+  },
+  {
+    "code": "EDUC 5065",
+    "title": "Introduction to Teaching & Classroom Routines",
+    "label": "EDUC 5065 — Introduction to Teaching & Classroom Routines",
+    "x": -14.289071083068848,
+    "y": -21.268505096435547
+  },
+  {
+    "code": "EDUC 5100",
+    "title": "Experimental Course (Teaching, Learning, and Leadership)",
+    "label": "EDUC 5100 — Experimental Course (Teaching, Learning, and Leadership)",
+    "x": -16.8344783782959,
+    "y": -28.01727294921875
+  },
+  {
+    "code": "EDUC 5113",
+    "title": "Development of the Young Child",
+    "label": "EDUC 5113 — Development of the Young Child",
+    "x": 33.23118209838867,
+    "y": -18.945798873901367
+  },
+  {
+    "code": "EDUC 5126",
+    "title": "Technology for Educators",
+    "label": "EDUC 5126 — Technology for Educators",
+    "x": -9.182524681091309,
+    "y": -35.02863693237305
+  },
+  {
+    "code": "EDUC 5134",
+    "title": "Diversity and Social Justice in American K-12 Education",
+    "label": "EDUC 5134 — Diversity and Social Justice in American K-12 Education",
+    "x": 14.705397605895996,
+    "y": 4.184232711791992
+  },
+  {
+    "code": "EDUC 5144",
+    "title": "Dashboards for Discovery and Learning Applications",
+    "label": "EDUC 5144 — Dashboards for Discovery and Learning Applications",
+    "x": -31.223560333251953,
+    "y": 0.7927389144897461
+  },
+  {
+    "code": "EDUC 5150",
+    "title": "Educational and Social Entrepreneurship",
+    "label": "EDUC 5150 — Educational and Social Entrepreneurship",
+    "x": -13.949410438537598,
+    "y": -23.38360595703125
+  },
+  {
+    "code": "EDUC 5151",
+    "title": "Outside the School Box: History, Policy and Alternatives",
+    "label": "EDUC 5151 — Outside the School Box: History, Policy and Alternatives",
+    "x": 10.768267631530762,
+    "y": 22.327192306518555
+  },
+  {
+    "code": "EDUC 5152",
+    "title": "Video Games and Virtual Worlds as Sites for Learning",
+    "label": "EDUC 5152 — Video Games and Virtual Worlds as Sites for Learning",
+    "x": 27.986656188964844,
+    "y": -26.27889060974121
+  },
+  {
+    "code": "EDUC 5160",
+    "title": "Quantitative Ethnography and Epistemic Network Analysis",
+    "label": "EDUC 5160 — Quantitative Ethnography and Epistemic Network Analysis",
+    "x": 3.090876340866089,
+    "y": -4.389329433441162
+  },
+  {
+    "code": "EDUC 5162",
+    "title": "Artificial Intelligence for Children and Youth Learning and Creating in K-12 Education",
+    "label": "EDUC 5162 — Artificial Intelligence for Children and Youth Learning and Creating in K-12 Education",
+    "x": -37.78288650512695,
+    "y": -6.697903156280518
+  },
+  {
+    "code": "EDUC 5171",
+    "title": "Collaboration & Conflict",
+    "label": "EDUC 5171 — Collaboration & Conflict",
+    "x": -42.092098236083984,
+    "y": 40.76303482055664
+  },
+  {
+    "code": "EDUC 5180",
+    "title": "Gender & Education",
+    "label": "EDUC 5180 — Gender & Education",
+    "x": 22.97860336303711,
+    "y": -2.449542284011841
+  },
+  {
+    "code": "EDUC 5183",
+    "title": "Adaptive Learning Systems",
+    "label": "EDUC 5183 — Adaptive Learning Systems",
+    "x": -26.36030387878418,
+    "y": 0.5092845559120178
+  },
+  {
+    "code": "EDUC 5204",
+    "title": "Citizen Sociolinguistics",
+    "label": "EDUC 5204 — Citizen Sociolinguistics",
+    "x": 5.9903883934021,
+    "y": -18.91010093688965
+  },
+  {
+    "code": "EDUC 5208",
+    "title": "Classroom Discourse and Interaction",
+    "label": "EDUC 5208 — Classroom Discourse and Interaction",
+    "x": 5.280605316162109,
+    "y": -14.277766227722168
+  },
+  {
+    "code": "EDUC 5212",
+    "title": "Communication and Culture in Context",
+    "label": "EDUC 5212 — Communication and Culture in Context",
+    "x": 10.373860359191895,
+    "y": -22.011022567749023
+  },
+  {
+    "code": "EDUC 5216",
+    "title": "Content-Based Instruction",
+    "label": "EDUC 5216 — Content-Based Instruction",
+    "x": -4.936431407928467,
+    "y": -31.87688636779785
+  },
+  {
+    "code": "EDUC 5220",
+    "title": "Pedagogy and Action for Critical Education",
+    "label": "EDUC 5220 — Pedagogy and Action for Critical Education",
+    "x": 13.26974105834961,
+    "y": 3.368694305419922
+  },
+  {
+    "code": "EDUC 5224",
+    "title": "Curriculum and Materials Development for English Language Teaching",
+    "label": "EDUC 5224 — Curriculum and Materials Development for English Language Teaching",
+    "x": -3.6673495769500732,
+    "y": -30.874868392944336
+  },
+  {
+    "code": "EDUC 5232",
+    "title": "Indigenous Education and Language Revitalization",
+    "label": "EDUC 5232 — Indigenous Education and Language Revitalization",
+    "x": 3.4533536434173584,
+    "y": 3.626490831375122
+  },
+  {
+    "code": "EDUC 5236",
+    "title": "Intercultural Communication and Miscommunication",
+    "label": "EDUC 5236 — Intercultural Communication and Miscommunication",
+    "x": 12.18605899810791,
+    "y": -19.970428466796875
+  },
+  {
+    "code": "EDUC 5240",
+    "title": "Language and Gender",
+    "label": "EDUC 5240 — Language and Gender",
+    "x": 21.96784782409668,
+    "y": -3.6367061138153076
+  },
+  {
+    "code": "EDUC 5248",
+    "title": "Language Assessment",
+    "label": "EDUC 5248 — Language Assessment",
+    "x": 2.6318306922912598,
+    "y": -31.69310760498047
+  },
+  {
+    "code": "EDUC 5252",
+    "title": "Language Diversity and Education",
+    "label": "EDUC 5252 — Language Diversity and Education",
+    "x": 10.478242874145508,
+    "y": -26.142181396484375
+  },
+  {
+    "code": "EDUC 5256",
+    "title": "Linguistic Anthropology of Education",
+    "label": "EDUC 5256 — Linguistic Anthropology of Education",
+    "x": 6.952138423919678,
+    "y": -25.494237899780273
+  },
+  {
+    "code": "EDUC 5264",
+    "title": "Structure of English",
+    "label": "EDUC 5264 — Structure of English",
+    "x": 3.3656764030456543,
+    "y": -29.385969161987305
+  },
+  {
+    "code": "EDUC 5268",
+    "title": "Teaching Performance Art for Cross-Cultural Education",
+    "label": "EDUC 5268 — Teaching Performance Art for Cross-Cultural Education",
+    "x": -4.25934362411499,
+    "y": -14.864544868469238
+  },
+  {
+    "code": "EDUC 5270",
+    "title": "Selected Topics in ELX: Adult Literacy for ELLs",
+    "label": "EDUC 5270 — Selected Topics in ELX: Adult Literacy for ELLs",
+    "x": 1.6993545293807983,
+    "y": -40.732723236083984
+  },
+  {
+    "code": "EDUC 5271",
+    "title": "Technology in Language Education",
+    "label": "EDUC 5271 — Technology in Language Education",
+    "x": -6.796419620513916,
+    "y": -34.959693908691406
+  },
+  {
+    "code": "EDUC 5272",
+    "title": "Selected Topics in ELX: Conversation Analysis for Second Language Teaching and Research",
+    "label": "EDUC 5272 — Selected Topics in ELX: Conversation Analysis for Second Language Teaching and Research",
+    "x": 0.9872820973396301,
+    "y": -39.57569885253906
+  },
+  {
+    "code": "EDUC 5273",
+    "title": "Selected Topics in ELX: Task Based Language Teaching",
+    "label": "EDUC 5273 — Selected Topics in ELX: Task Based Language Teaching",
+    "x": 0.46607705950737,
+    "y": -40.41917037963867
+  },
+  {
+    "code": "EDUC 5280",
+    "title": "Teaching Writing in Multilingual Contexts",
+    "label": "EDUC 5280 — Teaching Writing in Multilingual Contexts",
+    "x": 12.123445510864258,
+    "y": -30.09324073791504
+  },
+  {
+    "code": "EDUC 5281",
+    "title": "Teaching Multilingual Immigrant Youth",
+    "label": "EDUC 5281 — Teaching Multilingual Immigrant Youth",
+    "x": 11.691483497619629,
+    "y": -24.99860382080078
+  },
+  {
+    "code": "EDUC 5299",
+    "title": "TESOL Classroom Fundamentals",
+    "label": "EDUC 5299 — TESOL Classroom Fundamentals",
+    "x": -5.4080681800842285,
+    "y": -27.93777847290039
+  },
+  {
+    "code": "EDUC 5324",
+    "title": "Fieldwork in Lang in Education I",
+    "label": "EDUC 5324 — Fieldwork in Lang in Education I",
+    "x": -7.014923095703125,
+    "y": -22.042707443237305
+  },
+  {
+    "code": "EDUC 5325",
+    "title": "Fieldwork in Language in Education II",
+    "label": "EDUC 5325 — Fieldwork in Language in Education II",
+    "x": -6.931097507476807,
+    "y": -22.013668060302734
+  },
+  {
+    "code": "EDUC 5333",
+    "title": "Forming and Reforming the Elementary Reading/Writing/Literacy Curriculum",
+    "label": "EDUC 5333 — Forming and Reforming the Elementary Reading/Writing/Literacy Curriculum",
+    "x": 11.955097198486328,
+    "y": -40.332706451416016
+  },
+  {
+    "code": "EDUC 5335",
+    "title": "Literature for Children and Adolescents",
+    "label": "EDUC 5335 — Literature for Children and Adolescents",
+    "x": 16.71971893310547,
+    "y": -49.847434997558594
+  },
+  {
+    "code": "EDUC 5340",
+    "title": "Literacy In Action",
+    "label": "EDUC 5340 — Literacy In Action",
+    "x": 14.646478652954102,
+    "y": -38.36167526245117
+  },
+  {
+    "code": "EDUC 5378",
+    "title": "Teaching Reading and Study in Colleges and Universities",
+    "label": "EDUC 5378 — Teaching Reading and Study in Colleges and Universities",
+    "x": 9.345196723937988,
+    "y": -39.59062576293945
+  },
+  {
+    "code": "EDUC 5382",
+    "title": "Theories and Pedagogies of Teaching Writing",
+    "label": "EDUC 5382 — Theories and Pedagogies of Teaching Writing",
+    "x": 15.025042533874512,
+    "y": -32.82915496826172
+  },
+  {
+    "code": "EDUC 5388",
+    "title": "Digital Literacies in a Networked World",
+    "label": "EDUC 5388 — Digital Literacies in a Networked World",
+    "x": 22.8622989654541,
+    "y": -33.97297286987305
+  },
+  {
+    "code": "EDUC 5404",
+    "title": "Systems Thinking for International Development and Educational Change",
+    "label": "EDUC 5404 — Systems Thinking for International Development and Educational Change",
+    "x": 2.272742509841919,
+    "y": 14.183935165405273
+  },
+  {
+    "code": "EDUC 5406",
+    "title": "International Early Childhood Policies and Programs",
+    "label": "EDUC 5406 — International Early Childhood Policies and Programs",
+    "x": 23.438207626342773,
+    "y": -15.286226272583008
+  },
+  {
+    "code": "EDUC 5412",
+    "title": "Policy Planning in International Educational Development: Theory and Practice",
+    "label": "EDUC 5412 — Policy Planning in International Educational Development: Theory and Practice",
+    "x": -2.8120815753936768,
+    "y": 14.864599227905273
+  },
+  {
+    "code": "EDUC 5414",
+    "title": "Economics of Education in Lower Middle Income Countries",
+    "label": "EDUC 5414 — Economics of Education in Lower Middle Income Countries",
+    "x": -20.9394588470459,
+    "y": 16.77727699279785
+  },
+  {
+    "code": "EDUC 5418",
+    "title": "Global Governance and Cooperation: International Education Policy and Practice",
+    "label": "EDUC 5418 — Global Governance and Cooperation: International Education Policy and Practice",
+    "x": 0.3879583775997162,
+    "y": 11.945799827575684
+  },
+  {
+    "code": "EDUC 5428",
+    "title": "Participatory Educational Research in Global Perspective: Theory and Practice",
+    "label": "EDUC 5428 — Participatory Educational Research in Global Perspective: Theory and Practice",
+    "x": -0.5070754289627075,
+    "y": 8.700697898864746
+  },
+  {
+    "code": "EDUC 5430",
+    "title": "Migration, Displacement, and Education",
+    "label": "EDUC 5430 — Migration, Displacement, and Education",
+    "x": 12.681321144104004,
+    "y": 14.981579780578613
+  },
+  {
+    "code": "EDUC 5431",
+    "title": "Global Citizenship",
+    "label": "EDUC 5431 — Global Citizenship",
+    "x": 4.4784722328186035,
+    "y": 10.908609390258789
+  },
+  {
+    "code": "EDUC 5432",
+    "title": "Contemporary Immigration in the U.S.",
+    "label": "EDUC 5432 — Contemporary Immigration in the U.S.",
+    "x": 14.59084701538086,
+    "y": 15.315526008605957
+  },
+  {
+    "code": "EDUC 5433",
+    "title": "Teaching and Learning in the Global Era",
+    "label": "EDUC 5433 — Teaching and Learning in the Global Era",
+    "x": 3.8162777423858643,
+    "y": 9.510735511779785
+  },
+  {
+    "code": "EDUC 5434",
+    "title": "Decolonizing Education",
+    "label": "EDUC 5434 — Decolonizing Education",
+    "x": 10.656853675842285,
+    "y": 18.124216079711914
+  },
+  {
+    "code": "EDUC 5435",
+    "title": "Youth Cultural Formations",
+    "label": "EDUC 5435 — Youth Cultural Formations",
+    "x": 13.097493171691895,
+    "y": -3.5845253467559814
+  },
+  {
+    "code": "EDUC 5436",
+    "title": "Philosophical Aspects of Education Policy",
+    "label": "EDUC 5436 — Philosophical Aspects of Education Policy",
+    "x": 7.878781795501709,
+    "y": 25.34615135192871
+  },
+  {
+    "code": "EDUC 5437",
+    "title": "Interfaith Dialogue in Action (SNF Paideia Program Course)",
+    "label": "EDUC 5437 — Interfaith Dialogue in Action (SNF Paideia Program Course)",
+    "x": 10.471942901611328,
+    "y": 1.3144299983978271
+  },
+  {
+    "code": "EDUC 5438",
+    "title": "Education Law and Policy",
+    "label": "EDUC 5438 — Education Law and Policy",
+    "x": 8.206316947937012,
+    "y": 26.763952255249023
+  },
+  {
+    "code": "EDUC 5439",
+    "title": "Examining the School to Prison Pipeline: Implications of History, Policy, and Race",
+    "label": "EDUC 5439 — Examining the School to Prison Pipeline: Implications of History, Policy, and Race",
+    "x": 10.617820739746094,
+    "y": 29.06379508972168
+  },
+  {
+    "code": "EDUC 5443",
+    "title": "Education and the American Metropolis",
+    "label": "EDUC 5443 — Education and the American Metropolis",
+    "x": 14.254847526550293,
+    "y": 27.19532585144043
+  },
+  {
+    "code": "EDUC 5445",
+    "title": "Ethics & Schools",
+    "label": "EDUC 5445 — Ethics & Schools",
+    "x": 5.173327922821045,
+    "y": 27.540010452270508
+  },
+  {
+    "code": "EDUC 5448",
+    "title": "Politics of School Reform",
+    "label": "EDUC 5448 — Politics of School Reform",
+    "x": 10.960644721984863,
+    "y": 25.04336166381836
+  },
+  {
+    "code": "EDUC 5449",
+    "title": "The Social & Political Philosophy of Education",
+    "label": "EDUC 5449 — The Social & Political Philosophy of Education",
+    "x": 8.370763778686523,
+    "y": 21.309814453125
+  },
+  {
+    "code": "EDUC 5450",
+    "title": "Economic Development, Education, and Inequality in East Asia",
+    "label": "EDUC 5450 — Economic Development, Education, and Inequality in East Asia",
+    "x": -23.085126876831055,
+    "y": 15.569310188293457
+  },
+  {
+    "code": "EDUC 5451",
+    "title": "Politics and Education",
+    "label": "EDUC 5451 — Politics and Education",
+    "x": 4.266305446624756,
+    "y": 23.64516830444336
+  },
+  {
+    "code": "EDUC 5453",
+    "title": "History of American Education",
+    "label": "EDUC 5453 — History of American Education",
+    "x": 16.637842178344727,
+    "y": 17.405548095703125
+  },
+  {
+    "code": "EDUC 5455",
+    "title": "Merit and America",
+    "label": "EDUC 5455 — Merit and America",
+    "x": 7.60459566116333,
+    "y": 16.32646369934082
+  },
+  {
+    "code": "EDUC 5457",
+    "title": "Education and the Culture Wars: Historical and Contemporary Perspectives",
+    "label": "EDUC 5457 — Education and the Culture Wars: Historical and Contemporary Perspectives",
+    "x": 18.103029251098633,
+    "y": 16.788543701171875
+  },
+  {
+    "code": "EDUC 5459",
+    "title": "Activism Beyond the Classroom",
+    "label": "EDUC 5459 — Activism Beyond the Classroom",
+    "x": 11.723797798156738,
+    "y": 9.78998851776123
+  },
+  {
+    "code": "EDUC 5460",
+    "title": "American Education Reform: History, Policy, Practice",
+    "label": "EDUC 5460 — American Education Reform: History, Policy, Practice",
+    "x": 12.353028297424316,
+    "y": 24.682973861694336
+  },
+  {
+    "code": "EDUC 5466",
+    "title": "Ethnographic Filmmaking",
+    "label": "EDUC 5466 — Ethnographic Filmmaking",
+    "x": 9.12350082397461,
+    "y": -5.746495246887207
+  },
+  {
+    "code": "EDUC 5467",
+    "title": "Community Youth Filmmaking",
+    "label": "EDUC 5467 — Community Youth Filmmaking",
+    "x": 9.716766357421875,
+    "y": -5.4513258934021
+  },
+  {
+    "code": "EDUC 5480",
+    "title": "Education and International Development",
+    "label": "EDUC 5480 — Education and International Development",
+    "x": -1.130862832069397,
+    "y": 11.34942626953125
+  },
+  {
+    "code": "EDUC 5490",
+    "title": "School and Society in America",
+    "label": "EDUC 5490 — School and Society in America",
+    "x": 15.347537994384766,
+    "y": 23.45049285888672
+  },
+  {
+    "code": "EDUC 5495",
+    "title": "Anthropology and Education",
+    "label": "EDUC 5495 — Anthropology and Education",
+    "x": 21.038311004638672,
+    "y": 20.851293563842773
+  },
+  {
+    "code": "EDUC 5522",
+    "title": "Psychology of the African-American",
+    "label": "EDUC 5522 — Psychology of the African-American",
+    "x": 24.82073974609375,
+    "y": 10.94410514831543
+  },
+  {
+    "code": "EDUC 5538",
+    "title": "Stereotype Threat, Impostor Phenomenon, and African Americans",
+    "label": "EDUC 5538 — Stereotype Threat, Impostor Phenomenon, and African Americans",
+    "x": 24.99991226196289,
+    "y": 13.635457992553711
+  },
+  {
+    "code": "EDUC 5553",
+    "title": "Foundations of Education for Diverse Learners",
+    "label": "EDUC 5553 — Foundations of Education for Diverse Learners",
+    "x": 15.156956672668457,
+    "y": -10.933839797973633
+  },
+  {
+    "code": "EDUC 5557",
+    "title": "Developmental Theories: Applications with Adolescents",
+    "label": "EDUC 5557 — Developmental Theories: Applications with Adolescents",
+    "x": 32.225643157958984,
+    "y": -13.205872535705566
+  },
+  {
+    "code": "EDUC 5558",
+    "title": "Developmental Theories: Applications with Young Adults",
+    "label": "EDUC 5558 — Developmental Theories: Applications with Young Adults",
+    "x": 32.76649856567383,
+    "y": -11.485275268554688
+  },
+  {
+    "code": "EDUC 5560",
+    "title": "Human Development",
+    "label": "EDUC 5560 — Human Development",
+    "x": 35.36468505859375,
+    "y": -15.995216369628906
+  },
+  {
+    "code": "EDUC 5561",
+    "title": "Adolescent Development",
+    "label": "EDUC 5561 — Adolescent Development",
+    "x": 31.30460548400879,
+    "y": -13.962517738342285
+  },
+  {
+    "code": "EDUC 5562",
+    "title": "Personality & Social Development",
+    "label": "EDUC 5562 — Personality & Social Development",
+    "x": 31.8077449798584,
+    "y": -15.786308288574219
+  },
+  {
+    "code": "EDUC 5568",
+    "title": "Cognitive Development",
+    "label": "EDUC 5568 — Cognitive Development",
+    "x": 34.788211822509766,
+    "y": -19.102027893066406
+  },
+  {
+    "code": "EDUC 5570",
+    "title": "Qualitative Studies of Developmental Interventions",
+    "label": "EDUC 5570 — Qualitative Studies of Developmental Interventions",
+    "x": 35.1954345703125,
+    "y": -10.679672241210938
+  },
+  {
+    "code": "EDUC 5571",
+    "title": "Mindfulness for Emerging Adults",
+    "label": "EDUC 5571 — Mindfulness for Emerging Adults",
+    "x": 51.6386833190918,
+    "y": -11.398789405822754
+  },
+  {
+    "code": "EDUC 5573",
+    "title": "Psychoeducational Interactions with Black Males",
+    "label": "EDUC 5573 — Psychoeducational Interactions with Black Males",
+    "x": 23.103057861328125,
+    "y": 12.204935073852539
+  },
+  {
+    "code": "EDUC 5580",
+    "title": "Developmental Theories & Applications with Children",
+    "label": "EDUC 5580 — Developmental Theories & Applications with Children",
+    "x": 26.539867401123047,
+    "y": -15.616353034973145
+  },
+  {
+    "code": "EDUC 5581",
+    "title": "Advanced Psychology of Women",
+    "label": "EDUC 5581 — Advanced Psychology of Women",
+    "x": 29.974393844604492,
+    "y": -1.6121783256530762
+  },
+  {
+    "code": "EDUC 5584",
+    "title": "Basic Counseling Skills",
+    "label": "EDUC 5584 — Basic Counseling Skills",
+    "x": 44.25230407714844,
+    "y": 0.9291442632675171
+  },
+  {
+    "code": "EDUC 5585",
+    "title": "Advanced Group and Family Counseling",
+    "label": "EDUC 5585 — Advanced Group and Family Counseling",
+    "x": 45.16239547729492,
+    "y": -4.375715255737305
+  },
+  {
+    "code": "EDUC 5587",
+    "title": "Human Sexuality",
+    "label": "EDUC 5587 — Human Sexuality",
+    "x": 28.117937088012695,
+    "y": 1.0492351055145264
+  },
+  {
+    "code": "EDUC 5588",
+    "title": "Autism, Language, and Reasoning",
+    "label": "EDUC 5588 — Autism, Language, and Reasoning",
+    "x": 44.960411071777344,
+    "y": -10.327227592468262
+  },
+  {
+    "code": "EDUC 5594",
+    "title": "Race/Ethnicity in Human Development",
+    "label": "EDUC 5594 — Race/Ethnicity in Human Development",
+    "x": 29.802942276000977,
+    "y": -18.463468551635742
+  },
+  {
+    "code": "EDUC 5730",
+    "title": "The Evolution of Assessment: Classroom and Policy Uses",
+    "label": "EDUC 5730 — The Evolution of Assessment: Classroom and Policy Uses",
+    "x": -30.20916175842285,
+    "y": -9.440753936767578
+  },
+  {
+    "code": "EDUC 5760",
+    "title": "Applied Research Methods to Inform Policy and Practice",
+    "label": "EDUC 5760 — Applied Research Methods to Inform Policy and Practice",
+    "x": -14.157196044921875,
+    "y": 12.822808265686035
+  },
+  {
+    "code": "EDUC 5782",
+    "title": "Sociology of Education",
+    "label": "EDUC 5782 — Sociology of Education",
+    "x": 18.43105125427246,
+    "y": 24.023391723632812
+  },
+  {
+    "code": "EDUC 5804",
+    "title": "Contemporary Issues in Higher Education",
+    "label": "EDUC 5804 — Contemporary Issues in Higher Education",
+    "x": -28.302534103393555,
+    "y": 28.07851791381836
+  },
+  {
+    "code": "EDUC 5805",
+    "title": "Globalization & the University",
+    "label": "EDUC 5805 — Globalization & the University",
+    "x": -31.08816909790039,
+    "y": 19.483274459838867
+  },
+  {
+    "code": "EDUC 5806",
+    "title": "The Americas: Caribbean and Afro-Latin Education Studies",
+    "label": "EDUC 5806 — The Americas: Caribbean and Afro-Latin Education Studies",
+    "x": 22.18808364868164,
+    "y": 9.425615310668945
+  },
+  {
+    "code": "EDUC 5812",
+    "title": "University-Community Partnerships",
+    "label": "EDUC 5812 — University-Community Partnerships",
+    "x": -19.22503089904785,
+    "y": 40.84838104248047
+  },
+  {
+    "code": "EDUC 5820",
+    "title": "Special Topics in Higher Education",
+    "label": "EDUC 5820 — Special Topics in Higher Education",
+    "x": -25.73885154724121,
+    "y": 29.542966842651367
+  },
+  {
+    "code": "EDUC 5832",
+    "title": "Pursuing Institutions of Excellence: Strategies, Choices, Pitfalls & Possibilities",
+    "label": "EDUC 5832 — Pursuing Institutions of Excellence: Strategies, Choices, Pitfalls & Possibilities",
+    "x": -41.179786682128906,
+    "y": 29.274389266967773
+  },
+  {
+    "code": "EDUC 5841",
+    "title": "Access & Choice in American Higher Education",
+    "label": "EDUC 5841 — Access & Choice in American Higher Education",
+    "x": -22.738155364990234,
+    "y": 37.1921272277832
+  },
+  {
+    "code": "EDUC 5843",
+    "title": "Understanding Minority Serving Institutions",
+    "label": "EDUC 5843 — Understanding Minority Serving Institutions",
+    "x": -26.080089569091797,
+    "y": 37.921260833740234
+  },
+  {
+    "code": "EDUC 5853",
+    "title": "Academic Advising in Higher Education",
+    "label": "EDUC 5853 — Academic Advising in Higher Education",
+    "x": -20.557706832885742,
+    "y": 32.43465805053711
+  },
+  {
+    "code": "EDUC 5856",
+    "title": "Higher Education Finance",
+    "label": "EDUC 5856 — Higher Education Finance",
+    "x": -20.984193801879883,
+    "y": 22.1654052734375
+  },
+  {
+    "code": "EDUC 5869",
+    "title": "Administration of Student Life",
+    "label": "EDUC 5869 — Administration of Student Life",
+    "x": -23.285491943359375,
+    "y": 31.237247467041016
+  },
+  {
+    "code": "EDUC 5873",
+    "title": "Higher Education Policy : What Can We Learn from Other Countries?",
+    "label": "EDUC 5873 — Higher Education Policy : What Can We Learn from Other Countries?",
+    "x": -4.153085708618164,
+    "y": 17.161832809448242
+  },
+  {
+    "code": "EDUC 5892",
+    "title": "Professional Development in Higher Education",
+    "label": "EDUC 5892 — Professional Development in Higher Education",
+    "x": -21.501195907592773,
+    "y": 30.615009307861328
+  },
+  {
+    "code": "EDUC 5894",
+    "title": "Diversity in Higher Education",
+    "label": "EDUC 5894 — Diversity in Higher Education",
+    "x": -29.417757034301758,
+    "y": 35.37648391723633
+  },
+  {
+    "code": "EDUC 5901",
+    "title": "Radical Reading: Strutured Literacy in Context",
+    "label": "EDUC 5901 — Radical Reading: Strutured Literacy in Context",
+    "x": 10.907670974731445,
+    "y": -44.9629020690918
+  },
+  {
+    "code": "EDUC 5910",
+    "title": "Applied Network Analysis in Learning",
+    "label": "EDUC 5910 — Applied Network Analysis in Learning",
+    "x": -5.345769882202148,
+    "y": 39.966217041015625
+  },
+  {
+    "code": "EDUC 5911",
+    "title": "Artificial Intelligence for Children and Youth: Learning, Creating, and Understanding",
+    "label": "EDUC 5911 — Artificial Intelligence for Children and Youth: Learning, Creating, and Understanding",
+    "x": -37.86132049560547,
+    "y": -6.872143745422363
+  },
+  {
+    "code": "EDUC 5912",
+    "title": "Math Tutoring in Urban Elementary Schools",
+    "label": "EDUC 5912 — Math Tutoring in Urban Elementary Schools",
+    "x": -22.429195404052734,
+    "y": -17.849376678466797
+  },
+  {
+    "code": "EDUC 5913",
+    "title": "Programming Fundamentals for Educational Research",
+    "label": "EDUC 5913 — Programming Fundamentals for Educational Research",
+    "x": -8.722375869750977,
+    "y": 33.36870574951172
+  },
+  {
+    "code": "EDUC 5914",
+    "title": "Creating Culturally Responsive and Sustaining Classrooms",
+    "label": "EDUC 5914 — Creating Culturally Responsive and Sustaining Classrooms",
+    "x": -5.436343193054199,
+    "y": -11.275069236755371
+  },
+  {
+    "code": "EDUC 5915",
+    "title": "Artificial Intelligence, Learning Sciences, and Education Policy Worldwide",
+    "label": "EDUC 5915 — Artificial Intelligence, Learning Sciences, and Education Policy Worldwide",
+    "x": -37.238304138183594,
+    "y": -4.941112995147705
+  },
+  {
+    "code": "EDUC 5916",
+    "title": "Quantitative Ethnography and Epistemic Network Analysis",
+    "label": "EDUC 5916 — Quantitative Ethnography and Epistemic Network Analysis",
+    "x": 3.1014018058776855,
+    "y": -4.447194576263428
+  },
+  {
+    "code": "EDUC 5918",
+    "title": "Large Language Model Seminar",
+    "label": "EDUC 5918 — Large Language Model Seminar",
+    "x": 1.6360139846801758,
+    "y": -22.781875610351562
+  },
+  {
+    "code": "EDUC 5920",
+    "title": "Children's Additional Language Development",
+    "label": "EDUC 5920 — Children's Additional Language Development",
+    "x": -0.9514099955558777,
+    "y": -33.55715560913086
+  },
+  {
+    "code": "EDUC 5930",
+    "title": "Arts Integration in the K-12 Classroom",
+    "label": "EDUC 5930 — Arts Integration in the K-12 Classroom",
+    "x": -24.854646682739258,
+    "y": -26.51026153564453
+  },
+  {
+    "code": "EDUC 5931",
+    "title": "Community-Engaged Teaching and Learning in Philadelphia's Chinatown",
+    "label": "EDUC 5931 — Community-Engaged Teaching and Learning in Philadelphia's Chinatown",
+    "x": 12.95553970336914,
+    "y": 9.683542251586914
+  },
+  {
+    "code": "EDUC 5941",
+    "title": "Women, Human Rights and Global Transformations",
+    "label": "EDUC 5941 — Women, Human Rights and Global Transformations",
+    "x": 8.015664100646973,
+    "y": 11.440821647644043
+  },
+  {
+    "code": "EDUC 5943",
+    "title": "Racialization and Education",
+    "label": "EDUC 5943 — Racialization and Education",
+    "x": 20.237503051757812,
+    "y": 12.996689796447754
+  },
+  {
+    "code": "EDUC 5944",
+    "title": "Education and the Politics of Knowledge in the Global South",
+    "label": "EDUC 5944 — Education and the Politics of Knowledge in the Global South",
+    "x": 0.37375929951667786,
+    "y": 5.442451477050781
+  },
+  {
+    "code": "EDUC 5945",
+    "title": "Qualitative Methods and the Politics of Knowledge",
+    "label": "EDUC 5945 — Qualitative Methods and the Politics of Knowledge",
+    "x": -0.13405494391918182,
+    "y": 3.607071876525879
+  },
+  {
+    "code": "EDUC 5949",
+    "title": "Methods and Applications of Quantitative Educational Research",
+    "label": "EDUC 5949 — Methods and Applications of Quantitative Educational Research",
+    "x": -9.039664268493652,
+    "y": 20.100370407104492
+  },
+  {
+    "code": "EDUC 5950",
+    "title": "Praxis/Developmental Research Methods",
+    "label": "EDUC 5950 — Praxis/Developmental Research Methods",
+    "x": 36.72264862060547,
+    "y": -12.290586471557617
+  },
+  {
+    "code": "EDUC 5951",
+    "title": "Human Development and Media Studies",
+    "label": "EDUC 5951 — Human Development and Media Studies",
+    "x": 24.89688491821289,
+    "y": -34.44319152832031
+  },
+  {
+    "code": "EDUC 5953",
+    "title": "Socialization in Educational Context",
+    "label": "EDUC 5953 — Socialization in Educational Context",
+    "x": 24.228256225585938,
+    "y": 23.99761962890625
+  },
+  {
+    "code": "EDUC 5954",
+    "title": "Digital Technology and Child Development",
+    "label": "EDUC 5954 — Digital Technology and Child Development",
+    "x": 24.783048629760742,
+    "y": -31.305057525634766
+  },
+  {
+    "code": "EDUC 5970",
+    "title": "Inquiry Fundamentals for Education Policy",
+    "label": "EDUC 5970 — Inquiry Fundamentals for Education Policy",
+    "x": -12.53957462310791,
+    "y": 10.383758544921875
+  },
+  {
+    "code": "EDUC 5971",
+    "title": "Dimensions and Drivers of Educational Inequalities",
+    "label": "EDUC 5971 — Dimensions and Drivers of Educational Inequalities",
+    "x": 17.547487258911133,
+    "y": 26.781898498535156
+  },
+  {
+    "code": "EDUC 5972",
+    "title": "Economic Perspectives on Higher Education Policy",
+    "label": "EDUC 5972 — Economic Perspectives on Higher Education Policy",
+    "x": -21.52313995361328,
+    "y": 20.00525665283203
+  },
+  {
+    "code": "EDUC 5973",
+    "title": "Social Capital and Social Networks in Schools",
+    "label": "EDUC 5973 — Social Capital and Social Networks in Schools",
+    "x": 26.51020622253418,
+    "y": 26.883893966674805
+  },
+  {
+    "code": "EDUC 5974",
+    "title": "The Politics of Policymaking in K-12 Education",
+    "label": "EDUC 5974 — The Politics of Policymaking in K-12 Education",
+    "x": -0.1797487735748291,
+    "y": 23.35589027404785
+  },
+  {
+    "code": "EDUC 5975",
+    "title": "Software Skills for Policy Analysis and Reporting",
+    "label": "EDUC 5975 — Software Skills for Policy Analysis and Reporting",
+    "x": -14.087502479553223,
+    "y": 16.48479652404785
+  },
+  {
+    "code": "EDUC 5976",
+    "title": "Assessing Research Quality in Education Policy",
+    "label": "EDUC 5976 — Assessing Research Quality in Education Policy",
+    "x": -11.1124267578125,
+    "y": 17.00992774963379
+  },
+  {
+    "code": "EDUC 5980",
+    "title": "The Professoriate: Foundations, Careers, and Current Issues",
+    "label": "EDUC 5980 — The Professoriate: Foundations, Careers, and Current Issues",
+    "x": -37.08433151245117,
+    "y": 9.463712692260742
+  },
+  {
+    "code": "EDUC 5983",
+    "title": "The Community’s College",
+    "label": "EDUC 5983 — The Community’s College",
+    "x": -20.41897201538086,
+    "y": 39.397090911865234
+  },
+  {
+    "code": "EDUC 5984",
+    "title": "Equity and Inclusion in Higher Education and Beyond",
+    "label": "EDUC 5984 — Equity and Inclusion in Higher Education and Beyond",
+    "x": -30.624616622924805,
+    "y": 30.936119079589844
+  },
+  {
+    "code": "EDUC 5986",
+    "title": "Mixed Methods in Higher Education",
+    "label": "EDUC 5986 — Mixed Methods in Higher Education",
+    "x": -8.695211410522461,
+    "y": 3.4453210830688477
+  },
+  {
+    "code": "EDUC 5987",
+    "title": "Foundations of American Higher Education",
+    "label": "EDUC 5987 — Foundations of American Higher Education",
+    "x": -28.756139755249023,
+    "y": 26.967445373535156
+  },
+  {
+    "code": "EDUC 5988",
+    "title": "Seeking Global Citizenship at Home and Abroad",
+    "label": "EDUC 5988 — Seeking Global Citizenship at Home and Abroad",
+    "x": 5.547189235687256,
+    "y": 10.801342010498047
+  },
+  {
+    "code": "EDUC 5989",
+    "title": "Leading Change in Higher Education",
+    "label": "EDUC 5989 — Leading Change in Higher Education",
+    "x": -41.58293151855469,
+    "y": 23.01055908203125
+  },
+  {
+    "code": "EDUC 5990",
+    "title": "Education in a Connected Global Landscape",
+    "label": "EDUC 5990 — Education in a Connected Global Landscape",
+    "x": 3.6422476768493652,
+    "y": 6.622779846191406
+  },
+  {
+    "code": "EDUC 6027",
+    "title": "Teaching in the Middle and Secondary Schools: Math",
+    "label": "EDUC 6027 — Teaching in the Middle and Secondary Schools: Math",
+    "x": -19.153942108154297,
+    "y": -13.83406925201416
+  },
+  {
+    "code": "EDUC 6028",
+    "title": "Teaching in the Middle and Secondary Schools: Science",
+    "label": "EDUC 6028 — Teaching in the Middle and Secondary Schools: Science",
+    "x": -17.999969482421875,
+    "y": -13.191679000854492
+  },
+  {
+    "code": "EDUC 6029",
+    "title": "Teaching in the Middle and Secondary Schools: Social Studies",
+    "label": "EDUC 6029 — Teaching in the Middle and Secondary Schools: Social Studies",
+    "x": -16.649269104003906,
+    "y": -13.007684707641602
+  },
+  {
+    "code": "EDUC 6030",
+    "title": "Teaching in the Middle and Secondary Schools: English",
+    "label": "EDUC 6030 — Teaching in the Middle and Secondary Schools: English",
+    "x": 14.064776420593262,
+    "y": -41.850685119628906
+  },
+  {
+    "code": "EDUC 6041",
+    "title": "Culturally Responsive Pedagogy in Urban Secondary Schools",
+    "label": "EDUC 6041 — Culturally Responsive Pedagogy in Urban Secondary Schools",
+    "x": -6.119913578033447,
+    "y": -12.162103652954102
+  },
+  {
+    "code": "EDUC 6042",
+    "title": "School, Society & Self",
+    "label": "EDUC 6042 — School, Society & Self",
+    "x": 12.5642671585083,
+    "y": 20.069194793701172
+  },
+  {
+    "code": "EDUC 6042A",
+    "title": "School, Society & Self",
+    "label": "EDUC 6042A — School, Society & Self",
+    "x": 12.956598281860352,
+    "y": 20.356557846069336
+  },
+  {
+    "code": "EDUC 6042B",
+    "title": "School, Society & Self",
+    "label": "EDUC 6042B — School, Society & Self",
+    "x": 12.97581672668457,
+    "y": 20.54534339904785
+  },
+  {
+    "code": "EDUC 6057",
+    "title": "Advanced Methods in Middle & Secondary Schools: Math",
+    "label": "EDUC 6057 — Advanced Methods in Middle & Secondary Schools: Math",
+    "x": -18.778905868530273,
+    "y": -15.803915977478027
+  },
+  {
+    "code": "EDUC 6058",
+    "title": "Advanced Methods in Middle & Secondary Schools: Science",
+    "label": "EDUC 6058 — Advanced Methods in Middle & Secondary Schools: Science",
+    "x": -17.572612762451172,
+    "y": -15.252080917358398
+  },
+  {
+    "code": "EDUC 6059",
+    "title": "Advanced Methods in Middle & Secondary Schools: Social Studies",
+    "label": "EDUC 6059 — Advanced Methods in Middle & Secondary Schools: Social Studies",
+    "x": -16.38629150390625,
+    "y": -14.612707138061523
+  },
+  {
+    "code": "EDUC 6060",
+    "title": "Advanced Methods in Middle & Secondary Schools: English",
+    "label": "EDUC 6060 — Advanced Methods in Middle & Secondary Schools: English",
+    "x": -17.218170166015625,
+    "y": -16.456586837768555
+  },
+  {
+    "code": "EDUC 6101",
+    "title": "Curriculum Development and Enactment",
+    "label": "EDUC 6101 — Curriculum Development and Enactment",
+    "x": -10.876646041870117,
+    "y": -4.3285393714904785
+  },
+  {
+    "code": "EDUC 6108",
+    "title": "MaKer Studio",
+    "label": "EDUC 6108 — MaKer Studio",
+    "x": -26.629545211791992,
+    "y": -30.24587631225586
+  },
+  {
+    "code": "EDUC 6111",
+    "title": "Educational Assessment of and for Learning",
+    "label": "EDUC 6111 — Educational Assessment of and for Learning",
+    "x": -30.044710159301758,
+    "y": -8.667295455932617
+  },
+  {
+    "code": "EDUC 6116",
+    "title": "Master's Foundations of Teaching and Learning",
+    "label": "EDUC 6116 — Master's Foundations of Teaching and Learning",
+    "x": -8.14919662475586,
+    "y": -6.113480091094971
+  },
+  {
+    "code": "EDUC 6118",
+    "title": "Leadership in Educational Institutions",
+    "label": "EDUC 6118 — Leadership in Educational Institutions",
+    "x": -42.77100372314453,
+    "y": 37.5260009765625
+  },
+  {
+    "code": "EDUC 6123",
+    "title": "Big Data, Education, and Society",
+    "label": "EDUC 6123 — Big Data, Education, and Society",
+    "x": -32.49357986450195,
+    "y": 2.330721616744995
+  },
+  {
+    "code": "EDUC 6130",
+    "title": "Introduction to Mixed-Methods Research",
+    "label": "EDUC 6130 — Introduction to Mixed-Methods Research",
+    "x": -7.636348724365234,
+    "y": 3.228837013244629
+  },
+  {
+    "code": "EDUC 6137",
+    "title": "Contemporary Issues in Science and Technology Education Research",
+    "label": "EDUC 6137 — Contemporary Issues in Science and Technology Education Research",
+    "x": -19.725109100341797,
+    "y": -5.84489107131958
+  },
+  {
+    "code": "EDUC 6139",
+    "title": "Design of Learning Environments",
+    "label": "EDUC 6139 — Design of Learning Environments",
+    "x": -20.05623435974121,
+    "y": 0.3036992847919464
+  },
+  {
+    "code": "EDUC 6144",
+    "title": "Learning Sciences: Past, Present, Future",
+    "label": "EDUC 6144 — Learning Sciences: Past, Present, Future",
+    "x": -18.673038482666016,
+    "y": 0.6215073466300964
+  },
+  {
+    "code": "EDUC 6150",
+    "title": "Technologies for Language Learning and Teaching",
+    "label": "EDUC 6150 — Technologies for Language Learning and Teaching",
+    "x": -3.606194019317627,
+    "y": -35.6894416809082
+  },
+  {
+    "code": "EDUC 6159",
+    "title": "How Innovations Flourish",
+    "label": "EDUC 6159 — How Innovations Flourish",
+    "x": -23.010154724121094,
+    "y": 2.222684144973755
+  },
+  {
+    "code": "EDUC 6160",
+    "title": "Museum Education",
+    "label": "EDUC 6160 — Museum Education",
+    "x": -13.950748443603516,
+    "y": -1.8584237098693848
+  },
+  {
+    "code": "EDUC 6165",
+    "title": "Research on Teaching",
+    "label": "EDUC 6165 — Research on Teaching",
+    "x": -15.26542854309082,
+    "y": -5.601799011230469
+  },
+  {
+    "code": "EDUC 6168",
+    "title": "Master's Seminar in Teaching, Learning, and Leadership",
+    "label": "EDUC 6168 — Master's Seminar in Teaching, Learning, and Leadership",
+    "x": -33.18510055541992,
+    "y": -17.69076156616211
+  },
+  {
+    "code": "EDUC 6177",
+    "title": "Whiteness and Education",
+    "label": "EDUC 6177 — Whiteness and Education",
+    "x": 19.922637939453125,
+    "y": 12.212425231933594
+  },
+  {
+    "code": "EDUC 6178",
+    "title": "Gender and Sexuality in Education",
+    "label": "EDUC 6178 — Gender and Sexuality in Education",
+    "x": 23.8530216217041,
+    "y": -1.925020694732666
+  },
+  {
+    "code": "EDUC 6181",
+    "title": "Applied Research in the Learning Sciences",
+    "label": "EDUC 6181 — Applied Research in the Learning Sciences",
+    "x": -17.055374145507812,
+    "y": 1.9034258127212524
+  },
+  {
+    "code": "EDUC 6185",
+    "title": "Databases and Data Management",
+    "label": "EDUC 6185 — Databases and Data Management",
+    "x": -12.767243385314941,
+    "y": 31.26051139831543
+  },
+  {
+    "code": "EDUC 6186",
+    "title": "In/formal Learning Experience",
+    "label": "EDUC 6186 — In/formal Learning Experience",
+    "x": -2.881416082382202,
+    "y": -18.7663516998291
+  },
+  {
+    "code": "EDUC 6189",
+    "title": "Contemporary Issues in Mathematics Curriculum",
+    "label": "EDUC 6189 — Contemporary Issues in Mathematics Curriculum",
+    "x": -24.180662155151367,
+    "y": -15.743062973022461
+  },
+  {
+    "code": "EDUC 6190",
+    "title": "Feature Engineering",
+    "label": "EDUC 6190 — Feature Engineering",
+    "x": -9.64247989654541,
+    "y": 32.7036018371582
+  },
+  {
+    "code": "EDUC 6191",
+    "title": "Core Methods in Educational Data Mining",
+    "label": "EDUC 6191 — Core Methods in Educational Data Mining",
+    "x": -11.08577823638916,
+    "y": 30.097213745117188
+  },
+  {
+    "code": "EDUC 6192",
+    "title": "Large Language Model Applications in Education",
+    "label": "EDUC 6192 — Large Language Model Applications in Education",
+    "x": -34.466148376464844,
+    "y": -2.094475746154785
+  },
+  {
+    "code": "EDUC 6195",
+    "title": "Capstone Seminar: Learning Analytics",
+    "label": "EDUC 6195 — Capstone Seminar: Learning Analytics",
+    "x": -31.762357711791992,
+    "y": 2.781215190887451
+  },
+  {
+    "code": "EDUC 6200",
+    "title": "Introduction to Applied Linguistics",
+    "label": "EDUC 6200 — Introduction to Applied Linguistics",
+    "x": 7.218023300170898,
+    "y": -23.212234497070312
+  },
+  {
+    "code": "EDUC 6205",
+    "title": "Linguistics in Education",
+    "label": "EDUC 6205 — Linguistics in Education",
+    "x": 3.81746768951416,
+    "y": -27.95986557006836
+  },
+  {
+    "code": "EDUC 6210",
+    "title": "Sociolinguistics in Education",
+    "label": "EDUC 6210 — Sociolinguistics in Education",
+    "x": 8.32174301147461,
+    "y": -25.05635643005371
+  },
+  {
+    "code": "EDUC 6215",
+    "title": "Approaches to Teaching English and Other Modern Languages",
+    "label": "EDUC 6215 — Approaches to Teaching English and Other Modern Languages",
+    "x": -1.5719506740570068,
+    "y": -26.0450496673584
+  },
+  {
+    "code": "EDUC 6216",
+    "title": "Approaches to Teaching Chinese",
+    "label": "EDUC 6216 — Approaches to Teaching Chinese",
+    "x": -2.1531870365142822,
+    "y": -25.035694122314453
+  },
+  {
+    "code": "EDUC 6220",
+    "title": "Discursive Approaches in Language, Globalization, and Intercultural Studies",
+    "label": "EDUC 6220 — Discursive Approaches in Language, Globalization, and Intercultural Studies",
+    "x": 9.882143020629883,
+    "y": -21.005252838134766
+  },
+  {
+    "code": "EDUC 6299",
+    "title": "Ethnography for Language, Globalization, and Intercultural Studies",
+    "label": "EDUC 6299 — Ethnography for Language, Globalization, and Intercultural Studies",
+    "x": 9.427511215209961,
+    "y": -19.426607131958008
+  },
+  {
+    "code": "EDUC 6306",
+    "title": "Literacy Research, Theory, and Practice",
+    "label": "EDUC 6306 — Literacy Research, Theory, and Practice",
+    "x": 15.274760246276855,
+    "y": -39.086055755615234
+  },
+  {
+    "code": "EDUC 6323",
+    "title": "Multicultural Issues in Education",
+    "label": "EDUC 6323 — Multicultural Issues in Education",
+    "x": 18.158567428588867,
+    "y": 7.968006134033203
+  },
+  {
+    "code": "EDUC 6326",
+    "title": "Literacy, Discourse, and Interaction",
+    "label": "EDUC 6326 — Literacy, Discourse, and Interaction",
+    "x": 14.069897651672363,
+    "y": -43.75123977661133
+  },
+  {
+    "code": "EDUC 6329",
+    "title": "Teaching English/Language and Literacy in Middle and Secondary Schools",
+    "label": "EDUC 6329 — Teaching English/Language and Literacy in Middle and Secondary Schools",
+    "x": 14.155936241149902,
+    "y": -41.777225494384766
+  },
+  {
+    "code": "EDUC 6333",
+    "title": "Selected Topics in RWL: Literacy and Learning Differences",
+    "label": "EDUC 6333 — Selected Topics in RWL: Literacy and Learning Differences",
+    "x": 16.981908798217773,
+    "y": -36.652191162109375
+  },
+  {
+    "code": "EDUC 6334",
+    "title": "Selected Topics in RWL: Critical Literacies",
+    "label": "EDUC 6334 — Selected Topics in RWL: Critical Literacies",
+    "x": 17.587221145629883,
+    "y": -37.403499603271484
+  },
+  {
+    "code": "EDUC 6335",
+    "title": "Assessing Language and Learning Differences",
+    "label": "EDUC 6335 — Assessing Language and Learning Differences",
+    "x": 4.462260723114014,
+    "y": -34.99030685424805
+  },
+  {
+    "code": "EDUC 6336",
+    "title": "Young Adult Literature, Media & Culture",
+    "label": "EDUC 6336 — Young Adult Literature, Media & Culture",
+    "x": 15.516172409057617,
+    "y": -49.3078727722168
+  },
+  {
+    "code": "EDUC 6345",
+    "title": "Issues in Education and Health: Disparities and Prevention in Schools and Communities",
+    "label": "EDUC 6345 — Issues in Education and Health: Disparities and Prevention in Schools and Communities",
+    "x": 2.6470654010772705,
+    "y": 33.12847900390625
+  },
+  {
+    "code": "EDUC 6362",
+    "title": "Picturebooks and the Practice of Literacy",
+    "label": "EDUC 6362 — Picturebooks and the Practice of Literacy",
+    "x": 18.834535598754883,
+    "y": -47.220375061035156
+  },
+  {
+    "code": "EDUC 6369",
+    "title": "Participatory Methods in Education",
+    "label": "EDUC 6369 — Participatory Methods in Education",
+    "x": -4.711427688598633,
+    "y": -1.7540656328201294
+  },
+  {
+    "code": "EDUC 6371",
+    "title": "Adult Literacy",
+    "label": "EDUC 6371 — Adult Literacy",
+    "x": 8.646221160888672,
+    "y": -42.95326232910156
+  },
+  {
+    "code": "EDUC 6381",
+    "title": "Literacy and Illustrated Texts: Picturebooks, Comics and Graphic Novels",
+    "label": "EDUC 6381 — Literacy and Illustrated Texts: Picturebooks, Comics and Graphic Novels",
+    "x": 18.880767822265625,
+    "y": -46.572509765625
+  },
+  {
+    "code": "EDUC 6402",
+    "title": "Curriculum & Pedagogy in International Contexts",
+    "label": "EDUC 6402 — Curriculum & Pedagogy in International Contexts",
+    "x": -10.389966011047363,
+    "y": -5.619420528411865
+  },
+  {
+    "code": "EDUC 6410",
+    "title": "Global Perspectives on School Climate & Soci-Emotional Learning",
+    "label": "EDUC 6410 — Global Perspectives on School Climate & Soci-Emotional Learning",
+    "x": 3.67470383644104,
+    "y": 17.59055519104004
+  },
+  {
+    "code": "EDUC 6460",
+    "title": "Qualitative Methods: Principles and Techniques",
+    "label": "EDUC 6460 — Qualitative Methods: Principles and Techniques",
+    "x": -1.140038013458252,
+    "y": -0.6627923846244812
+  },
+  {
+    "code": "EDUC 6462",
+    "title": "Principles of Monitoring & Evaluation in International Education Development",
+    "label": "EDUC 6462 — Principles of Monitoring & Evaluation in International Education Development",
+    "x": -7.1115851402282715,
+    "y": 14.875612258911133
+  },
+  {
+    "code": "EDUC 6465",
+    "title": "Social Capital and Social Networks",
+    "label": "EDUC 6465 — Social Capital and Social Networks",
+    "x": 26.47377586364746,
+    "y": 26.836700439453125
+  },
+  {
+    "code": "EDUC 6480",
+    "title": "International Educational Development in Practice: Tools, Techniques and Ethics",
+    "label": "EDUC 6480 — International Educational Development in Practice: Tools, Techniques and Ethics",
+    "x": -2.980698823928833,
+    "y": 10.053954124450684
+  },
+  {
+    "code": "EDUC 6482",
+    "title": "Masters Proseminar in International Educational Development",
+    "label": "EDUC 6482 — Masters Proseminar in International Educational Development",
+    "x": -3.441377878189087,
+    "y": 11.950841903686523
+  },
+  {
+    "code": "EDUC 6490",
+    "title": "Master's Seminar in Education, Culture, and Society",
+    "label": "EDUC 6490 — Master's Seminar in Education, Culture, and Society",
+    "x": -33.27271270751953,
+    "y": -17.73871612548828
+  },
+  {
+    "code": "EDUC 6503",
+    "title": "Wellness and Addictions Counseling",
+    "label": "EDUC 6503 — Wellness and Addictions Counseling",
+    "x": 49.28037643432617,
+    "y": -4.64432430267334
+  },
+  {
+    "code": "EDUC 6510",
+    "title": "Cultural Perspectives on Human Development",
+    "label": "EDUC 6510 — Cultural Perspectives on Human Development",
+    "x": 30.935832977294922,
+    "y": -17.653705596923828
+  },
+  {
+    "code": "EDUC 6512",
+    "title": "LGBT Counseling & Development",
+    "label": "EDUC 6512 — LGBT Counseling & Development",
+    "x": 28.362401962280273,
+    "y": 1.065153956413269
+  },
+  {
+    "code": "EDUC 6513",
+    "title": "Group Counseling",
+    "label": "EDUC 6513 — Group Counseling",
+    "x": 49.24931716918945,
+    "y": 1.7700663805007935
+  },
+  {
+    "code": "EDUC 6515",
+    "title": "Parenting and Children's Educational Development",
+    "label": "EDUC 6515 — Parenting and Children's Educational Development",
+    "x": 27.395099639892578,
+    "y": -12.032513618469238
+  },
+  {
+    "code": "EDUC 6517",
+    "title": "Counseling for School to Career Transitions",
+    "label": "EDUC 6517 — Counseling for School to Career Transitions",
+    "x": 37.757633209228516,
+    "y": -3.361084461212158
+  },
+  {
+    "code": "EDUC 6558",
+    "title": "Diagnosis and Psychopathology",
+    "label": "EDUC 6558 — Diagnosis and Psychopathology",
+    "x": 40.34674072265625,
+    "y": -9.98140811920166
+  },
+  {
+    "code": "EDUC 6563",
+    "title": "Sociocultural Foundations in Counseling",
+    "label": "EDUC 6563 — Sociocultural Foundations in Counseling",
+    "x": 47.704376220703125,
+    "y": -1.5461875200271606
+  },
+  {
+    "code": "EDUC 6577",
+    "title": "EdTech and International Development",
+    "label": "EDUC 6577 — EdTech and International Development",
+    "x": -9.432360649108887,
+    "y": -42.14242935180664
+  },
+  {
+    "code": "EDUC 6580",
+    "title": "Early Childhood, Early Literacy, and Parent-Family-Community Engagement",
+    "label": "EDUC 6580 — Early Childhood, Early Literacy, and Parent-Family-Community Engagement",
+    "x": 24.0659236907959,
+    "y": -16.974016189575195
+  },
+  {
+    "code": "EDUC 6585",
+    "title": "Career Counseling and Development",
+    "label": "EDUC 6585 — Career Counseling and Development",
+    "x": 37.681793212890625,
+    "y": -3.6182892322540283
+  },
+  {
+    "code": "EDUC 6586",
+    "title": "Counseling Interventions",
+    "label": "EDUC 6586 — Counseling Interventions",
+    "x": 47.1286506652832,
+    "y": -4.238640308380127
+  },
+  {
+    "code": "EDUC 6587",
+    "title": "Counseling Ethics & Professional Principles",
+    "label": "EDUC 6587 — Counseling Ethics & Professional Principles",
+    "x": 45.88987350463867,
+    "y": 0.2803173363208771
+  },
+  {
+    "code": "EDUC 6588",
+    "title": "Counseling Practicum",
+    "label": "EDUC 6588 — Counseling Practicum",
+    "x": 42.1756477355957,
+    "y": 0.4889863431453705
+  },
+  {
+    "code": "EDUC 6625",
+    "title": "Data Processing and Analysis",
+    "label": "EDUC 6625 — Data Processing and Analysis",
+    "x": -7.048707485198975,
+    "y": 26.792631149291992
+  },
+  {
+    "code": "EDUC 6667",
+    "title": "Introductory Statistics for Educational Research",
+    "label": "EDUC 6667 — Introductory Statistics for Educational Research",
+    "x": -7.78135871887207,
+    "y": 21.23578453063965
+  },
+  {
+    "code": "EDUC 6680",
+    "title": "Evaluation of Policies, Programs and Projects",
+    "label": "EDUC 6680 — Evaluation of Policies, Programs and Projects",
+    "x": -16.268901824951172,
+    "y": 13.33752727508545
+  },
+  {
+    "code": "EDUC 6683",
+    "title": "Survey Methods & Design",
+    "label": "EDUC 6683 — Survey Methods & Design",
+    "x": -11.066549301147461,
+    "y": 27.030059814453125
+  },
+  {
+    "code": "EDUC 6684",
+    "title": "Measurement & Assessment",
+    "label": "EDUC 6684 — Measurement & Assessment",
+    "x": -30.30152130126953,
+    "y": -11.393319129943848
+  },
+  {
+    "code": "EDUC 6715",
+    "title": "Public Communications in Education: Challenges and Strategies",
+    "label": "EDUC 6715 — Public Communications in Education: Challenges and Strategies",
+    "x": 26.12984848022461,
+    "y": -36.59904098510742
+  },
+  {
+    "code": "EDUC 6720",
+    "title": "Methods of Economic Evaluation in Education",
+    "label": "EDUC 6720 — Methods of Economic Evaluation in Education",
+    "x": -17.71722984313965,
+    "y": 16.666162490844727
+  },
+  {
+    "code": "EDUC 6725",
+    "title": "The Politics of Policymaking in K-12 Education",
+    "label": "EDUC 6725 — The Politics of Policymaking in K-12 Education",
+    "x": -0.2472027987241745,
+    "y": 23.27861785888672
+  },
+  {
+    "code": "EDUC 6734",
+    "title": "Child Development and Social Policy",
+    "label": "EDUC 6734 — Child Development and Social Policy",
+    "x": 22.65843391418457,
+    "y": -12.50582504272461
+  },
+  {
+    "code": "EDUC 6736",
+    "title": "Education Finance Policy",
+    "label": "EDUC 6736 — Education Finance Policy",
+    "x": -19.087200164794922,
+    "y": 21.52235221862793
+  },
+  {
+    "code": "EDUC 6738",
+    "title": "Education Policy Issues",
+    "label": "EDUC 6738 — Education Policy Issues",
+    "x": -11.26842212677002,
+    "y": 7.895173072814941
+  },
+  {
+    "code": "EDUC 6739",
+    "title": "Applied Policy Analysis",
+    "label": "EDUC 6739 — Applied Policy Analysis",
+    "x": -13.234198570251465,
+    "y": 13.975665092468262
+  },
+  {
+    "code": "EDUC 6784",
+    "title": "Economics of Education",
+    "label": "EDUC 6784 — Economics of Education",
+    "x": -18.6574649810791,
+    "y": 17.99658966064453
+  },
+  {
+    "code": "EDUC 6804",
+    "title": "Ethics and Leadership in Higher Education",
+    "label": "EDUC 6804 — Ethics and Leadership in Higher Education",
+    "x": -43.44007873535156,
+    "y": 38.984832763671875
+  },
+  {
+    "code": "EDUC 6807",
+    "title": "Faculty and Academic Governance",
+    "label": "EDUC 6807 — Faculty and Academic Governance",
+    "x": -39.18034744262695,
+    "y": 26.679521560668945
+  },
+  {
+    "code": "EDUC 6808",
+    "title": "Organizational Change in Higher Education",
+    "label": "EDUC 6808 — Organizational Change in Higher Education",
+    "x": -42.67601013183594,
+    "y": 23.645828247070312
+  },
+  {
+    "code": "EDUC 6811",
+    "title": "Higher Education Data Systems",
+    "label": "EDUC 6811 — Higher Education Data Systems",
+    "x": -16.817825317382812,
+    "y": 27.585285186767578
+  },
+  {
+    "code": "EDUC 6819",
+    "title": "College Student Health",
+    "label": "EDUC 6819 — College Student Health",
+    "x": 1.8607836961746216,
+    "y": 33.88523864746094
+  },
+  {
+    "code": "EDUC 6820",
+    "title": "Enrollment Management",
+    "label": "EDUC 6820 — Enrollment Management",
+    "x": -23.891157150268555,
+    "y": 35.219078063964844
+  },
+  {
+    "code": "EDUC 6824",
+    "title": "Gender in College",
+    "label": "EDUC 6824 — Gender in College",
+    "x": 24.339338302612305,
+    "y": -0.35611575841903687
+  },
+  {
+    "code": "EDUC 6831",
+    "title": "Research Topics",
+    "label": "EDUC 6831 — Research Topics",
+    "x": -15.455385208129883,
+    "y": 5.91758918762207
+  },
+  {
+    "code": "EDUC 6840",
+    "title": "History of American Higher Education",
+    "label": "EDUC 6840 — History of American Higher Education",
+    "x": -28.036823272705078,
+    "y": 25.617883682250977
+  },
+  {
+    "code": "EDUC 6845",
+    "title": "Geography of Opportunity",
+    "label": "EDUC 6845 — Geography of Opportunity",
+    "x": 15.26030445098877,
+    "y": 29.690370559692383
+  },
+  {
+    "code": "EDUC 6856",
+    "title": "College and University Teaching",
+    "label": "EDUC 6856 — College and University Teaching",
+    "x": -16.811838150024414,
+    "y": -4.359222412109375
+  },
+  {
+    "code": "EDUC 6858",
+    "title": "The College and University Presidency",
+    "label": "EDUC 6858 — The College and University Presidency",
+    "x": -36.615203857421875,
+    "y": 26.945158004760742
+  },
+  {
+    "code": "EDUC 6871",
+    "title": "The High Impact University: the Social Purposes of Universities",
+    "label": "EDUC 6871 — The High Impact University: the Social Purposes of Universities",
+    "x": -36.85258102416992,
+    "y": 20.030136108398438
+  },
+  {
+    "code": "EDUC 6871A",
+    "title": "The High Impact University: the Social Purposes of Universities",
+    "label": "EDUC 6871A — The High Impact University: the Social Purposes of Universities",
+    "x": -37.53795623779297,
+    "y": 19.699007034301758
+  },
+  {
+    "code": "EDUC 6871B",
+    "title": "The High Impact University: the Social Purposes of Universities",
+    "label": "EDUC 6871B — The High Impact University: the Social Purposes of Universities",
+    "x": -37.108612060546875,
+    "y": 19.163875579833984
+  },
+  {
+    "code": "EDUC 6872",
+    "title": "The Evolving Global Landscape",
+    "label": "EDUC 6872 — The Evolving Global Landscape",
+    "x": -31.875438690185547,
+    "y": 21.186100006103516
+  },
+  {
+    "code": "EDUC 6872A",
+    "title": "The Evolving Global Landscape",
+    "label": "EDUC 6872A — The Evolving Global Landscape",
+    "x": -32.59722900390625,
+    "y": 21.220046997070312
+  },
+  {
+    "code": "EDUC 6872B",
+    "title": "The Evolving Global Landscape",
+    "label": "EDUC 6872B — The Evolving Global Landscape",
+    "x": -32.69562530517578,
+    "y": 20.250818252563477
+  },
+  {
+    "code": "EDUC 6873",
+    "title": "Magnifying the Mission",
+    "label": "EDUC 6873 — Magnifying the Mission",
+    "x": -24.249868392944336,
+    "y": 6.021729946136475
+  },
+  {
+    "code": "EDUC 6873A",
+    "title": "Magnifying the Mission",
+    "label": "EDUC 6873A — Magnifying the Mission",
+    "x": -24.395374298095703,
+    "y": 5.676064491271973
+  },
+  {
+    "code": "EDUC 6873B",
+    "title": "Magnifying the Mission",
+    "label": "EDUC 6873B — Magnifying the Mission",
+    "x": -24.36592674255371,
+    "y": 5.5111188888549805
+  },
+  {
+    "code": "EDUC 6874",
+    "title": "Governance, Change, & Strategy",
+    "label": "EDUC 6874 — Governance, Change, & Strategy",
+    "x": -41.57001876831055,
+    "y": 26.473478317260742
+  },
+  {
+    "code": "EDUC 6874A",
+    "title": "Governance, Change, & Strategy",
+    "label": "EDUC 6874A — Governance, Change, & Strategy",
+    "x": -41.368770599365234,
+    "y": 25.775930404663086
+  },
+  {
+    "code": "EDUC 6874B",
+    "title": "Governance, Change, & Strategy",
+    "label": "EDUC 6874B — Governance, Change, & Strategy",
+    "x": -42.24746322631836,
+    "y": 26.098987579345703
+  },
+  {
+    "code": "EDUC 6875",
+    "title": "University in its External Context",
+    "label": "EDUC 6875 — University in its External Context",
+    "x": -34.55080795288086,
+    "y": 24.55190658569336
+  },
+  {
+    "code": "EDUC 6875A",
+    "title": "University in its External Context",
+    "label": "EDUC 6875A — University in its External Context",
+    "x": -34.996707916259766,
+    "y": 24.39596176147461
+  },
+  {
+    "code": "EDUC 6875B",
+    "title": "University in its External Context",
+    "label": "EDUC 6875B — University in its External Context",
+    "x": -34.92230987548828,
+    "y": 23.77989387512207
+  },
+  {
+    "code": "EDUC 6876",
+    "title": "Designing the Future",
+    "label": "EDUC 6876 — Designing the Future",
+    "x": -48.025779724121094,
+    "y": 24.90935707092285
+  },
+  {
+    "code": "EDUC 6876A",
+    "title": "Designing the Future",
+    "label": "EDUC 6876A — Designing the Future",
+    "x": -47.591407775878906,
+    "y": 24.994998931884766
+  },
+  {
+    "code": "EDUC 6876B",
+    "title": "Designing the Future",
+    "label": "EDUC 6876B — Designing the Future",
+    "x": -47.7990837097168,
+    "y": 24.453468322753906
+  },
+  {
+    "code": "EDUC 6877",
+    "title": "The Challenges of Leading",
+    "label": "EDUC 6877 — The Challenges of Leading",
+    "x": -43.80651092529297,
+    "y": 33.33412170410156
+  },
+  {
+    "code": "EDUC 6878",
+    "title": "The Human Enterprise",
+    "label": "EDUC 6878 — The Human Enterprise",
+    "x": -35.685821533203125,
+    "y": 30.899707794189453
+  },
+  {
+    "code": "EDUC 6878A",
+    "title": "The Human Enterprise",
+    "label": "EDUC 6878A — The Human Enterprise",
+    "x": -36.14420700073242,
+    "y": 30.947118759155273
+  },
+  {
+    "code": "EDUC 6878B",
+    "title": "The Human Enterprise",
+    "label": "EDUC 6878B — The Human Enterprise",
+    "x": -36.03544616699219,
+    "y": 31.36232566833496
+  },
+  {
+    "code": "EDUC 6879",
+    "title": "The Business of the Academic Business",
+    "label": "EDUC 6879 — The Business of the Academic Business",
+    "x": -37.66522216796875,
+    "y": 23.411949157714844
+  },
+  {
+    "code": "EDUC 6880A",
+    "title": "Action Lab: Problems/Opportunities of Practice",
+    "label": "EDUC 6880A — Action Lab: Problems/Opportunities of Practice",
+    "x": -28.165573120117188,
+    "y": 9.842016220092773
+  },
+  {
+    "code": "EDUC 6880B",
+    "title": "Action Lab: Problems/Opportunities of Practice",
+    "label": "EDUC 6880B — Action Lab: Problems/Opportunities of Practice",
+    "x": -28.1708984375,
+    "y": 9.832043647766113
+  },
+  {
+    "code": "EDUC 6893",
+    "title": "Student Development in College Environments",
+    "label": "EDUC 6893 — Student Development in College Environments",
+    "x": 33.66429138183594,
+    "y": -6.469110488891602
+  },
+  {
+    "code": "EDUC 6894",
+    "title": "College Athletics and Higher Education: Money, Power, Politics",
+    "label": "EDUC 6894 — College Athletics and Higher Education: Money, Power, Politics",
+    "x": -33.228759765625,
+    "y": 26.66695785522461
+  },
+  {
+    "code": "EDUC 6906",
+    "title": "Teaching in the Middle and Secondary Schools: World Languages",
+    "label": "EDUC 6906 — Teaching in the Middle and Secondary Schools: World Languages",
+    "x": 0.7027493119239807,
+    "y": -26.606115341186523
+  },
+  {
+    "code": "EDUC 6910",
+    "title": "Classroom Discourse",
+    "label": "EDUC 6910 — Classroom Discourse",
+    "x": 4.376217365264893,
+    "y": -13.466629981994629
+  },
+  {
+    "code": "EDUC 6940",
+    "title": "Evidence in International Education: Design, Implementation, and Impact",
+    "label": "EDUC 6940 — Evidence in International Education: Design, Implementation, and Impact",
+    "x": -2.319763660430908,
+    "y": 7.37417459487915
+  },
+  {
+    "code": "EDUC 6980",
+    "title": "Intro to Academic Writing and Methods in Higher Education Research",
+    "label": "EDUC 6980 — Intro to Academic Writing and Methods in Higher Education Research",
+    "x": -10.665777206420898,
+    "y": 5.604468822479248
+  },
+  {
+    "code": "EDUC 6988",
+    "title": "Humanizing Data: Storytelling, Folklore and Ethnography",
+    "label": "EDUC 6988 — Humanizing Data: Storytelling, Folklore and Ethnography",
+    "x": 0.4103424847126007,
+    "y": -6.337985515594482
+  },
+  {
+    "code": "EDUC 6990",
+    "title": "Capstone I",
+    "label": "EDUC 6990 — Capstone I",
+    "x": -29.61372184753418,
+    "y": 6.841203689575195
+  },
+  {
+    "code": "EDUC 7102",
+    "title": "Conceptual Models of School Leadership & Organization",
+    "label": "EDUC 7102 — Conceptual Models of School Leadership & Organization",
+    "x": -41.99619674682617,
+    "y": 35.99896240234375
+  },
+  {
+    "code": "EDUC 7119",
+    "title": "Research on Teacher Education and Learning to Teach",
+    "label": "EDUC 7119 — Research on Teacher Education and Learning to Teach",
+    "x": -14.633240699768066,
+    "y": -6.848393440246582
+  },
+  {
+    "code": "EDUC 7122",
+    "title": "Reforming Philadelphia Schools: A Research Practicum on Community Engagement",
+    "label": "EDUC 7122 — Reforming Philadelphia Schools: A Research Practicum on Community Engagement",
+    "x": 10.842299461364746,
+    "y": 7.718193054199219
+  },
+  {
+    "code": "EDUC 7132",
+    "title": "Doctoral Proseminar on Education Research",
+    "label": "EDUC 7132 — Doctoral Proseminar on Education Research",
+    "x": 9.02281379699707,
+    "y": -34.16625213623047
+  },
+  {
+    "code": "EDUC 7140",
+    "title": "Social Foundations of Teaching and Learning",
+    "label": "EDUC 7140 — Social Foundations of Teaching and Learning",
+    "x": 21.95474624633789,
+    "y": 27.97722816467285
+  },
+  {
+    "code": "EDUC 7201",
+    "title": "Methods of Discourse Analysis",
+    "label": "EDUC 7201 — Methods of Discourse Analysis",
+    "x": 6.35103702545166,
+    "y": -14.8167142868042
+  },
+  {
+    "code": "EDUC 7220",
+    "title": "Seminar in Microethnography",
+    "label": "EDUC 7220 — Seminar in Microethnography",
+    "x": 9.867650032043457,
+    "y": -15.63118839263916
+  },
+  {
+    "code": "EDUC 7225",
+    "title": "Second Language Development",
+    "label": "EDUC 7225 — Second Language Development",
+    "x": 0.9306959509849548,
+    "y": -31.785097122192383
+  },
+  {
+    "code": "EDUC 7230",
+    "title": "Experiential Learning Design for Language, Globalization, and Intercultural Studies",
+    "label": "EDUC 7230 — Experiential Learning Design for Language, Globalization, and Intercultural Studies",
+    "x": -9.223723411560059,
+    "y": -30.162782669067383
+  },
+  {
+    "code": "EDUC 7313",
+    "title": "Responding to Literature: An Interdisciplinary Perspective",
+    "label": "EDUC 7313 — Responding to Literature: An Interdisciplinary Perspective",
+    "x": 15.598865509033203,
+    "y": -47.90107345581055
+  },
+  {
+    "code": "EDUC 7323",
+    "title": "Multicultural Issues in Education",
+    "label": "EDUC 7323 — Multicultural Issues in Education",
+    "x": 18.22870445251465,
+    "y": 7.932348728179932
+  },
+  {
+    "code": "EDUC 7324",
+    "title": "Literacy: Social and Historical Perspectives",
+    "label": "EDUC 7324 — Literacy: Social and Historical Perspectives",
+    "x": 17.265409469604492,
+    "y": -41.37186813354492
+  },
+  {
+    "code": "EDUC 7335",
+    "title": "Culturally Relevant and Sustaining Approaches to Literacy Tutorial Work",
+    "label": "EDUC 7335 — Culturally Relevant and Sustaining Approaches to Literacy Tutorial Work",
+    "x": 10.139204978942871,
+    "y": -41.85895919799805
+  },
+  {
+    "code": "EDUC 7337",
+    "title": "Research in Teaching Writing",
+    "label": "EDUC 7337 — Research in Teaching Writing",
+    "x": 15.611653327941895,
+    "y": -33.8330078125
+  },
+  {
+    "code": "EDUC 7350",
+    "title": "Qualitative Digital Methods in Educational Research",
+    "label": "EDUC 7350 — Qualitative Digital Methods in Educational Research",
+    "x": -2.731074810028076,
+    "y": -4.350229740142822
+  },
+  {
+    "code": "EDUC 7460",
+    "title": "Qualitative Research: Concepts, Methods and Design",
+    "label": "EDUC 7460 — Qualitative Research: Concepts, Methods and Design",
+    "x": -1.4385318756103516,
+    "y": -0.5980754494667053
+  },
+  {
+    "code": "EDUC 7462",
+    "title": "Advanced Monitoring & Evaluation in International Education Development",
+    "label": "EDUC 7462 — Advanced Monitoring & Evaluation in International Education Development",
+    "x": -7.793671607971191,
+    "y": 15.792292594909668
+  },
+  {
+    "code": "EDUC 7464",
+    "title": "Advanced Qualitative and Case Study Research",
+    "label": "EDUC 7464 — Advanced Qualitative and Case Study Research",
+    "x": -1.703498363494873,
+    "y": -1.815622091293335
+  },
+  {
+    "code": "EDUC 7468",
+    "title": "Ethnographic Research Methods",
+    "label": "EDUC 7468 — Ethnographic Research Methods",
+    "x": 0.635331392288208,
+    "y": -2.913647174835205
+  },
+  {
+    "code": "EDUC 7509",
+    "title": "Peer Relationships in Childhood and Adolescence",
+    "label": "EDUC 7509 — Peer Relationships in Childhood and Adolescence",
+    "x": 29.683353424072266,
+    "y": -15.16204833984375
+  },
+  {
+    "code": "EDUC 7517",
+    "title": "Professional Internship in Counseling I",
+    "label": "EDUC 7517 — Professional Internship in Counseling I",
+    "x": 43.543495178222656,
+    "y": -1.5473824739456177
+  },
+  {
+    "code": "EDUC 7518",
+    "title": "Professional Internship in Counseling II",
+    "label": "EDUC 7518 — Professional Internship in Counseling II",
+    "x": 42.6755485534668,
+    "y": -1.1033321619033813
+  },
+  {
+    "code": "EDUC 7525",
+    "title": "Advanced Professional Practice in Communities, Agencies and Organizations",
+    "label": "EDUC 7525 — Advanced Professional Practice in Communities, Agencies and Organizations",
+    "x": 45.13671875,
+    "y": -1.335497498512268
+  },
+  {
+    "code": "EDUC 7531",
+    "title": "Risk, Resilience, and Prevention Science",
+    "label": "EDUC 7531 — Risk, Resilience, and Prevention Science",
+    "x": 30.48140525817871,
+    "y": -9.94933032989502
+  },
+  {
+    "code": "EDUC 7539",
+    "title": "Poverty and Child Development",
+    "label": "EDUC 7539 — Poverty and Child Development",
+    "x": 22.167695999145508,
+    "y": -14.044402122497559
+  },
+  {
+    "code": "EDUC 7548",
+    "title": "Neuroscience, Brain Development, and Learning",
+    "label": "EDUC 7548 — Neuroscience, Brain Development, and Learning",
+    "x": 36.936500549316406,
+    "y": -19.80938720703125
+  },
+  {
+    "code": "EDUC 7550",
+    "title": "Trauma & Counseling",
+    "label": "EDUC 7550 — Trauma & Counseling",
+    "x": 45.53852844238281,
+    "y": -6.900999069213867
+  },
+  {
+    "code": "EDUC 7564",
+    "title": "Cognitive Processes",
+    "label": "EDUC 7564 — Cognitive Processes",
+    "x": 39.5924186706543,
+    "y": -18.638940811157227
+  },
+  {
+    "code": "EDUC 7566",
+    "title": "Advanced Professional Counseling Interventions",
+    "label": "EDUC 7566 — Advanced Professional Counseling Interventions",
+    "x": 44.288124084472656,
+    "y": -2.757835865020752
+  },
+  {
+    "code": "EDUC 7582",
+    "title": "Assessment for Counselors I",
+    "label": "EDUC 7582 — Assessment for Counselors I",
+    "x": 40.75690460205078,
+    "y": 2.845461368560791
+  },
+  {
+    "code": "EDUC 7585",
+    "title": "Selected Topics in Professional Psychology",
+    "label": "EDUC 7585 — Selected Topics in Professional Psychology",
+    "x": 42.85603713989258,
+    "y": -4.0311479568481445
+  },
+  {
+    "code": "EDUC 7665",
+    "title": "Introduction to Causal Inference for Educational Research",
+    "label": "EDUC 7665 — Introduction to Causal Inference for Educational Research",
+    "x": -13.271275520324707,
+    "y": 20.89875030517578
+  },
+  {
+    "code": "EDUC 7667",
+    "title": "Regression and Analysis of Variance",
+    "label": "EDUC 7667 — Regression and Analysis of Variance",
+    "x": -11.174947738647461,
+    "y": 25.291091918945312
+  },
+  {
+    "code": "EDUC 7668",
+    "title": "Measurement Theory and Test Construction",
+    "label": "EDUC 7668 — Measurement Theory and Test Construction",
+    "x": 38.45515441894531,
+    "y": 11.304567337036133
+  },
+  {
+    "code": "EDUC 7671",
+    "title": "Factor Analysis and Scale Development",
+    "label": "EDUC 7671 — Factor Analysis and Scale Development",
+    "x": 38.95759201049805,
+    "y": 12.14436149597168
+  },
+  {
+    "code": "EDUC 7677",
+    "title": "Structural Equations Modeling",
+    "label": "EDUC 7677 — Structural Equations Modeling",
+    "x": 39.63640594482422,
+    "y": 14.195531845092773
+  },
+  {
+    "code": "EDUC 7708",
+    "title": "The Social Organization of Schooling",
+    "label": "EDUC 7708 — The Social Organization of Schooling",
+    "x": 21.42717933654785,
+    "y": 25.689456939697266
+  },
+  {
+    "code": "EDUC 7742",
+    "title": "Teachers and Teaching Policy",
+    "label": "EDUC 7742 — Teachers and Teaching Policy",
+    "x": -14.4200439453125,
+    "y": -7.988699436187744
+  },
+  {
+    "code": "EDUC 7762",
+    "title": "Introduction to Applied Quantitative Methods for Education Research: Pre-K to 20",
+    "label": "EDUC 7762 — Introduction to Applied Quantitative Methods for Education Research: Pre-K to 20",
+    "x": -10.07187557220459,
+    "y": 19.426631927490234
+  },
+  {
+    "code": "EDUC 7770",
+    "title": "Education Policy Research Practicum",
+    "label": "EDUC 7770 — Education Policy Research Practicum",
+    "x": -12.628165245056152,
+    "y": 12.428021430969238
+  },
+  {
+    "code": "EDUC 7771",
+    "title": "The Intersection of Leadership Theory and Practice",
+    "label": "EDUC 7771 — The Intersection of Leadership Theory and Practice",
+    "x": -44.36659240722656,
+    "y": 36.947166442871094
+  },
+  {
+    "code": "EDUC 7772",
+    "title": "Expanding Civic Opportunities for Youth (Practicum)",
+    "label": "EDUC 7772 — Expanding Civic Opportunities for Youth (Practicum)",
+    "x": 10.343395233154297,
+    "y": 6.859625816345215
+  },
+  {
+    "code": "EDUC 7804",
+    "title": "Economics of Higher Education",
+    "label": "EDUC 7804 — Economics of Higher Education",
+    "x": -23.325721740722656,
+    "y": 20.543914794921875
+  },
+  {
+    "code": "EDUC 7805",
+    "title": "Proseminar in Research & Analysis",
+    "label": "EDUC 7805 — Proseminar in Research & Analysis",
+    "x": -12.489670753479004,
+    "y": 6.811705589294434
+  },
+  {
+    "code": "EDUC 7814",
+    "title": "Law and Higher Education",
+    "label": "EDUC 7814 — Law and Higher Education",
+    "x": -24.275190353393555,
+    "y": 25.442052841186523
+  },
+  {
+    "code": "EDUC 7815",
+    "title": "Case Studies in Higher Education Administration",
+    "label": "EDUC 7815 — Case Studies in Higher Education Administration",
+    "x": -23.168272018432617,
+    "y": 28.8680362701416
+  },
+  {
+    "code": "EDUC 7816",
+    "title": "Public Policy Issues in Higher Education",
+    "label": "EDUC 7816 — Public Policy Issues in Higher Education",
+    "x": -22.589139938354492,
+    "y": 25.503259658813477
+  },
+  {
+    "code": "EDUC 7828",
+    "title": "Advanced Public Policy Seminar in Higher Education",
+    "label": "EDUC 7828 — Advanced Public Policy Seminar in Higher Education",
+    "x": -21.577402114868164,
+    "y": 25.674291610717773
+  },
+  {
+    "code": "EDUC 7833",
+    "title": "Students' Transitions from High School to College and to the Job Market",
+    "label": "EDUC 7833 — Students' Transitions from High School to College and to the Job Market",
+    "x": -22.289854049682617,
+    "y": 37.50844955444336
+  },
+  {
+    "code": "EDUC 7836",
+    "title": "Quasi-Experimental Design",
+    "label": "EDUC 7836 — Quasi-Experimental Design",
+    "x": -12.062963485717773,
+    "y": 24.2813720703125
+  },
+  {
+    "code": "EDUC 7844",
+    "title": "Building Inclusive Communities in Higher Education",
+    "label": "EDUC 7844 — Building Inclusive Communities in Higher Education",
+    "x": -30.26886749267578,
+    "y": 33.771732330322266
+  },
+  {
+    "code": "EDUC 7847",
+    "title": "Social and Statistical Network Analysis",
+    "label": "EDUC 7847 — Social and Statistical Network Analysis",
+    "x": -5.328408241271973,
+    "y": 39.99387741088867
+  },
+  {
+    "code": "EDUC 7848",
+    "title": "Spatial Socio-Econometric Modeling",
+    "label": "EDUC 7848 — Spatial Socio-Econometric Modeling",
+    "x": 16.796585083007812,
+    "y": 30.97959327697754
+  },
+  {
+    "code": "EDUC 7849",
+    "title": "Modeling Leadership Resilience through Chaos, Crisis, Calamity, Calumny, and Catastrophe",
+    "label": "EDUC 7849 — Modeling Leadership Resilience through Chaos, Crisis, Calamity, Calumny, and Catastrophe",
+    "x": -46.21438980102539,
+    "y": 35.366233825683594
+  },
+  {
+    "code": "EDUC 7870",
+    "title": "New Models for Postsecondary Education",
+    "label": "EDUC 7870 — New Models for Postsecondary Education",
+    "x": -25.75682258605957,
+    "y": 21.381284713745117
+  },
+  {
+    "code": "EDUC 8215",
+    "title": "TESOL Practice Teaching",
+    "label": "EDUC 8215 — TESOL Practice Teaching",
+    "x": -5.859554767608643,
+    "y": -26.60376739501953
+  },
+  {
+    "code": "EDUC 8225",
+    "title": "TESOL Seminar",
+    "label": "EDUC 8225 — TESOL Seminar",
+    "x": -7.673570156097412,
+    "y": -25.97233009338379
+  },
+  {
+    "code": "EDUC 8230",
+    "title": "LGIS Seminar",
+    "label": "EDUC 8230 — LGIS Seminar",
+    "x": -0.9535232186317444,
+    "y": -18.478607177734375
+  },
+  {
+    "code": "EDUC 8334",
+    "title": "Critical Literacy: Reading the self, texts and the world",
+    "label": "EDUC 8334 — Critical Literacy: Reading the self, texts and the world",
+    "x": 13.335622787475586,
+    "y": -39.56517791748047
+  },
+  {
+    "code": "EDUC 8336",
+    "title": "Issues in Instructional Leadership in Reading and Writing",
+    "label": "EDUC 8336 — Issues in Instructional Leadership in Reading and Writing",
+    "x": 10.551536560058594,
+    "y": -39.064537048339844
+  },
+  {
+    "code": "EDUC 8405",
+    "title": "Culture/Power/Subjectivities",
+    "label": "EDUC 8405 — Culture/Power/Subjectivities",
+    "x": 16.85336685180664,
+    "y": -1.796832799911499
+  },
+  {
+    "code": "EDUC 8436",
+    "title": "Narrating the Self",
+    "label": "EDUC 8436 — Narrating the Self",
+    "x": 23.220609664916992,
+    "y": -41.074798583984375
+  },
+  {
+    "code": "EDUC 8466",
+    "title": "Craft of Ethnography",
+    "label": "EDUC 8466 — Craft of Ethnography",
+    "x": 1.0762759447097778,
+    "y": -2.5301566123962402
+  },
+  {
+    "code": "EDUC 8480",
+    "title": "International Educational Development Doctoral Proseminar",
+    "label": "EDUC 8480 — International Educational Development Doctoral Proseminar",
+    "x": -4.965304851531982,
+    "y": 11.250269889831543
+  },
+  {
+    "code": "EDUC 8490",
+    "title": "Education, Culture and Society",
+    "label": "EDUC 8490 — Education, Culture and Society",
+    "x": 5.794883728027344,
+    "y": 3.948864221572876
+  },
+  {
+    "code": "EDUC 8560",
+    "title": "ISHD Proseminar",
+    "label": "EDUC 8560 — ISHD Proseminar",
+    "x": -15.286737442016602,
+    "y": -33.08494567871094
+  },
+  {
+    "code": "EDUC 8629",
+    "title": "Policy Research",
+    "label": "EDUC 8629 — Policy Research",
+    "x": -11.664359092712402,
+    "y": 14.304445266723633
+  },
+  {
+    "code": "EDUC 8671",
+    "title": "Randomized Trials and Experiments",
+    "label": "EDUC 8671 — Randomized Trials and Experiments",
+    "x": -13.61142349243164,
+    "y": 22.602075576782227
+  },
+  {
+    "code": "EDUC 8680",
+    "title": "Complex, Multilevel, and Longitudinal Research Models",
+    "label": "EDUC 8680 — Complex, Multilevel, and Longitudinal Research Models",
+    "x": 40.75873947143555,
+    "y": 15.288137435913086
+  },
+  {
+    "code": "EDUC 8681",
+    "title": "Classifications, Profiles, and Latent Growth Mixture Models",
+    "label": "EDUC 8681 — Classifications, Profiles, and Latent Growth Mixture Models",
+    "x": 41.24763870239258,
+    "y": 15.801468849182129
+  },
+  {
+    "code": "EDUC 8710",
+    "title": "Advanced Analysis in the Economics of Education",
+    "label": "EDUC 8710 — Advanced Analysis in the Economics of Education",
+    "x": -16.835952758789062,
+    "y": 19.111343383789062
+  },
+  {
+    "code": "EDUC 8762",
+    "title": "Applied Research & Reporting",
+    "label": "EDUC 8762 — Applied Research & Reporting",
+    "x": -13.73313045501709,
+    "y": 8.851914405822754
+  },
+  {
+    "code": "EDUC 8930",
+    "title": "Literacy Studies Research Advisory Committee",
+    "label": "EDUC 8930 — Literacy Studies Research Advisory Committee",
+    "x": 9.70081901550293,
+    "y": -34.823524475097656
+  },
+  {
+    "code": "EDUC 9126",
+    "title": "How People Learn: Theoretical Foundations",
+    "label": "EDUC 9126 — How People Learn: Theoretical Foundations",
+    "x": -7.691897392272949,
+    "y": -6.2381768226623535
+  },
+  {
+    "code": "EDUC 9205",
+    "title": "Research Seminar: Language Policy and Education",
+    "label": "EDUC 9205 — Research Seminar: Language Policy and Education",
+    "x": 3.095708131790161,
+    "y": -24.032024383544922
+  },
+  {
+    "code": "EDUC 9210",
+    "title": "Issues in Second Language Acquisition",
+    "label": "EDUC 9210 — Issues in Second Language Acquisition",
+    "x": 1.1138575077056885,
+    "y": -33.47597122192383
+  },
+  {
+    "code": "EDUC 9215",
+    "title": "Genealogies of Race and Language in Educational Research",
+    "label": "EDUC 9215 — Genealogies of Race and Language in Educational Research",
+    "x": 20.337909698486328,
+    "y": 6.663514137268066
+  },
+  {
+    "code": "EDUC 9317",
+    "title": "Research Seminar: Language and Power",
+    "label": "EDUC 9317 — Research Seminar: Language and Power",
+    "x": 5.885407447814941,
+    "y": -21.629602432250977
+  },
+  {
+    "code": "EDUC 9320",
+    "title": "Proposal Writing Seminar",
+    "label": "EDUC 9320 — Proposal Writing Seminar",
+    "x": 11.921316146850586,
+    "y": -35.81081771850586
+  },
+  {
+    "code": "EDUC 9560",
+    "title": "Advanced Research in Human Learning and Development",
+    "label": "EDUC 9560 — Advanced Research in Human Learning and Development",
+    "x": 37.131370544433594,
+    "y": -15.435370445251465
+  },
+  {
+    "code": "EDUC 9580",
+    "title": "Mixed Methods Research: Counseling & Development",
+    "label": "EDUC 9580 — Mixed Methods Research: Counseling & Development",
+    "x": -7.043804168701172,
+    "y": 3.4837050437927246
+  },
+  {
+    "code": "EDUC 9764",
+    "title": "Research Seminar in Applied Research Synthesis Methods",
+    "label": "EDUC 9764 — Research Seminar in Applied Research Synthesis Methods",
+    "x": -12.629677772521973,
+    "y": 3.9062740802764893
+  },
+  {
+    "code": "EDUC 9901",
+    "title": "Executive Education MSEd Thesis/Fieldwork Seminar",
+    "label": "EDUC 9901 — Executive Education MSEd Thesis/Fieldwork Seminar",
+    "x": -11.972574234008789,
+    "y": -26.638805389404297
+  }
+]
