@@ -1,5 +1,7 @@
 import json
 from pathlib import Path
+import os
+
 
 import pandas as pd
 import plotly.express as px
@@ -166,6 +168,7 @@ def show_details(clickData):
 
 
 if __name__ == "__main__":
-    # Open http://127.0.0.1:8050 in your browser
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", "8050"))
+    app.run(host="0.0.0.0", port=port, debug=False)
+
 
