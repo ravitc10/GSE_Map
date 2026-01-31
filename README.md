@@ -1,2 +1,2 @@
 # GSE_Map
-Map of Semantic Similarity of Penn Courses
+Vibe Coded of Penn GSE Courses
